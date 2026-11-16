@@ -1,5 +1,5 @@
 {
-  "experiment": "improvement_1",
+  "experiment": "baseline",
   "description": "TF-IDF retrieval with top-k=5 and context budget=2400",
   "method": "dense",
   "split": "test",
