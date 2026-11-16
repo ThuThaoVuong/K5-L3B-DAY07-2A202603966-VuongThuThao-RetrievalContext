@@ -1,0 +1,4 @@
+-r day6_reference/starter/requirements.txt
+openai>=1.30,<3
+python-dotenv>=1,<2
+scikit-learn>=1.4,<2

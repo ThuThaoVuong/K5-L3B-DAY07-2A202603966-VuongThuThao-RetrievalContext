@@ -7,13 +7,30 @@
 - Agent model, cách chạy và phân chia dev/test:
 - Cách xác định câu có/thiếu evidence và tiêu chí chấm:
 
+- Nguồn dữ liệu: Student Handbook for Global Engagement (PDF), kế thừa từ Day 6.
+- Quyền sử dụng: Sử dụng tài liệu phục vụ mục đích học tập và nghiên cứu.
+- Số trang: 38 trang nội dung được chọn.
+- Số chunk: 302 chunks, sử dụng Chunking Strategy C.
+- Vector store: PostgreSQL 16 + pgvector.
+- Embedding model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2.
+- Embedding dimensions: 384.
+- Vector strategy: C.
+- Agent model: openai.
+- Phân chia benchmark: 20 câu hỏi từ benchmark Day 6, gồm 15 câu dev và 5 câu test.
+- Gold evidence: Được lưu riêng trong benchmark/evaluation, không truyền trực tiếp vào Agent.
+- Cách xác định evidence: Dựa trên source_id, số trang (page) và đoạn nội dung bằng chứng (evidence) được xác định trước trong benchmark.
+- Tiêu chí đánh giá:
+  - Hit@1: Kết quả đứng đầu có chứa gold evidence hay không.
+  - Evidence Hit@3: Có ít nhất một kết quả trong top 3 chứa gold evidence hay không. 
+  - Context Evidence Rate: Context cuối cùng được cung cấp có chứa gold evidence hay không.
+
 ## Retrieval và thử nghiệm
 
 | Cấu hình | Phương pháp, top-k, filter, rerank, context budget | Giả thuyết / thay đổi | Split | Hit@1 | Evidence Hit@3 | Context Evidence Rate | Thời gian / chi phí |
 |---|---|---|---|---|---|---|---|
-| Baseline | | | dev | | | | |
-| Phương pháp 2 | | | dev | | | | |
-| Phương pháp 3 | | | dev | | | | |
+| Baseline | Dense, top-k=3, context=1800 | Retrieval bằng semantic similarity | dev | 0/15 (0%) | 0/15 (0%) | 0/15 (0%) | 126.52 ms / $0 |
+| Phương pháp 2 | TF-IDF, top-k=3, context=1800 | Thử lexical retrieval dựa trên từ khóa | dev | 8/15 (53.33%) | 10/15 (66.67%) | 10/15 (66.67%) | 1.88 ms / $0 |
+| Phương pháp 3 | Hybrid RRF (Dense + TF-IDF), top-k=3, context=1800 | Kết hợp Dense và Lexical bằng Reciprocal Rank Fusion | dev | 8/15 (53.33%) | 10/15 (66.67%) | 10/15 (66.67%) | 120.35 ms / $0 |
 | Cải thiện 1 | | | dev | | | | |
 | Cải thiện 2 | | | dev | | | | |
 | Cấu hình đã chọn | | | test | | | | |

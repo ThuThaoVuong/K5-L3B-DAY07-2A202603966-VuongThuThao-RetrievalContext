@@ -1,0 +1,175 @@
+[
+  {
+    "id": "Q002",
+    "split": "dev",
+    "question": "Which eight areas does Chapter 1 identify as particularly important when considering the ethics of an international research or intervention project?",
+    "answerable": true,
+    "filter": {
+      "section": "Chapter 1 - Ethics of Research Abroad"
+    }
+  },
+  {
+    "id": "Q003",
+    "split": "dev",
+    "question": "At the beginning of an overseas project, what information should a student make clear to local collaborators to prevent misunderstandings?",
+    "answerable": true
+  },
+  {
+    "id": "Q004",
+    "split": "dev",
+    "question": "A student feels pressure to offer additional services to a host community but is unsure whether they can deliver them. What does the handbook advise?",
+    "answerable": true
+  },
+  {
+    "id": "Q005",
+    "split": "dev",
+    "question": "How should a research team weigh the demands its project places on a host community?",
+    "answerable": true
+  },
+  {
+    "id": "Q006",
+    "split": "dev",
+    "question": "How does the handbook define cultural competency in the context of working abroad?",
+    "answerable": true,
+    "filter": {
+      "section": "Chapter 1 - Ethics of Research Abroad"
+    }
+  },
+  {
+    "id": "Q008",
+    "split": "dev",
+    "question": "When must IRB approval be obtained, and which kinds of research participants or conditions receive more stringent ethical approval requirements?",
+    "answerable": true,
+    "filter": {
+      "section": "Chapter 1 - Ethics of Research Abroad"
+    }
+  },
+  {
+    "id": "Q009",
+    "split": "dev",
+    "question": "Besides communicating findings to the scientific community, with whom should students share research or service project results?",
+    "answerable": true
+  },
+  {
+    "id": "Q010",
+    "split": "dev",
+    "question": "What forms can a 'design' take according to the handbook's definitions in Chapter 2?",
+    "answerable": true
+  },
+  {
+    "id": "Q011",
+    "split": "dev",
+    "question": "Which groups or roles does the handbook list as possible project partners?",
+    "answerable": true
+  },
+  {
+    "id": "Q012",
+    "split": "dev",
+    "question": "Why should a resource and needs assessment be conducted collaboratively with the community rather than imposed on it?",
+    "answerable": true
+  },
+  {
+    "id": "Q013",
+    "split": "dev",
+    "question": "What should a problem statement specify, according to the Project Development chapter?",
+    "answerable": true,
+    "filter": {
+      "section": "Chapter 2 - Project Development with International Partners"
+    }
+  },
+  {
+    "id": "Q014",
+    "split": "dev",
+    "question": "When planning the design of a project, what should the team do if feedback from the host community indicates that the initial design needs changes?",
+    "answerable": true
+  },
+  {
+    "id": "Q015",
+    "split": "test",
+    "question": "Which categories should students consider when preparing a personal budget for an overseas project?",
+    "answerable": true
+  },
+  {
+    "id": "Q016",
+    "split": "test",
+    "question": "During project implementation, how should responsibilities and communication among team members be organized?",
+    "answerable": true,
+    "filter": {
+      "section": "Chapter 2 - Project Development with International Partners"
+    }
+  },
+  {
+    "id": "Q017",
+    "split": "test",
+    "question": "When deciding who owns ideas, documents, or technologies produced with international partners, whose input should be part of the discussion and what should guide the decision?",
+    "answerable": true
+  },
+  {
+    "id": "Q018",
+    "split": "test",
+    "question": "At what stages should project evaluation take place, and when should evaluation metrics be outlined?",
+    "answerable": true,
+    "filter": {
+      "section": "Chapter 2 - Project Development with International Partners"
+    }
+  },
+  {
+    "id": "Q020",
+    "split": "dev",
+    "question": "What makes collaboration between domestic and international partners genuinely collaborative throughout a project?",
+    "answerable": true
+  },
+  {
+    "id": "Q001",
+    "split": "dev",
+    "question": "What five major areas does the handbook cover for students planning research or service abroad?",
+    "answerable": true
+  },
+  {
+    "id": "Q007",
+    "split": "dev",
+    "question": "What two broad types of sustainability does Chapter 1 describe?",
+    "answerable": true
+  },
+  {
+    "id": "Q019",
+    "split": "test",
+    "question": "If local interpretations of confidentiality differ from a student's own expectations, what standard should the student try to maintain, and what should they avoid publishing without appropriate consent?",
+    "answerable": true,
+    "filter": {
+      "section": "Chapter 3 - Guidelines for Professional Behavior Abroad"
+    }
+  },
+  {
+    "id": "NA_DEV_01",
+    "split": "dev",
+    "question": "What minimum GPA must a University of Michigan student maintain to participate in an overseas research or service project?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "The included handbook content does not specify a minimum GPA eligibility threshold."
+  },
+  {
+    "id": "NA_DEV_02",
+    "split": "dev",
+    "question": "Which single airline does the handbook require every student to book for international travel?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "The handbook gives examples of airline websites but does not mandate one airline."
+  },
+  {
+    "id": "NA_TEST_01",
+    "split": "test",
+    "question": "What exact USD-to-local-currency exchange rate does the handbook prescribe for students?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "The handbook advises students to research currency and exchange conditions but gives no fixed exchange rate."
+  },
+  {
+    "id": "NA_TEST_02",
+    "split": "test",
+    "question": "How many mandatory volunteer service hours must each student complete before departure?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "The included handbook does not define a mandatory volunteer-hour requirement."
+  }
+]

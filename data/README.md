@@ -1,9 +1,7 @@
-# Định dạng dữ liệu
+# Day 7 data
 
-Các file `example_*.json` chỉ minh họa định dạng, không đủ để nộp bài. Dữ liệu thật là JSON array UTF-8; nếu dùng định dạng khác, ghi cách chuyển trong README.
+- `agent_cases.json`: 20 câu answerable chuyển từ benchmark Day 6 (gold bị loại khỏi agent input) và 4 câu unanswerable (2 dev, 2 test). Các `absence_reason` chỉ dùng để người làm kiểm tra/chấm, không truyền vào agent.
+- `prepared/chunks.json`: được tạo bằng `starter/prepare_day7.py` từ bảng `rag_chunks` strategy C của Day 6. Không sửa IDs hoặc chunk text.
+- `prepared/questions_answerable.json`: benchmark 20 câu có đáp án, có gold để evaluation; không truyền file này vào agent.
 
-- **Chunk:** `id`, `text`, `source_id`, `source`, `page`, `metadata`. ID phải duy nhất; giữ phiên bản hoặc ngày nếu có.
-- **Câu có đáp án:** `id`, `split` (`dev` hoặc `test`), `question`, `expected_answer`, `gold`: danh sách `{source_id, page, evidence}`. Với schema mẫu, mỗi evidence phải nằm trọn trong một chunk đúng nguồn và trang; các phần tử `gold` là evidence thay thế. Với câu multi-hop cần nhiều đoạn, bạn có thể mở rộng schema, ghi rõ nhóm evidence bắt buộc và cách chấm. Có thể thêm `filter` do người dùng cung cấp trước.
-- **Câu thiếu evidence:** `id`, `split`, `question`, `answerable: false`, `expected_behavior: "search_and_abstain"`, `absence_reason`. Xem `agent_cases_example.json`.
-
-Không đưa `gold` hoặc nhãn đáp án vào model và retrieval tool. Ghi nguồn dữ liệu và quyền sử dụng. Cách chuyển một số định dạng Day 6: [starter/README.md](../starter/README.md).
+Corpus: Student Handbook for Global Engagement; 38 content pages theo Day 6 manifest.

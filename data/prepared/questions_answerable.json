@@ -1,0 +1,503 @@
+[
+  {
+    "id": "Q002",
+    "split": "dev",
+    "question": "Which eight areas does Chapter 1 identify as particularly important when considering the ethics of an international research or intervention project?",
+    "expected_answer": "Intent; reciprocity and balance of gain; high-impact interventions; local organization involvement; cultural competency; sustainability; IRB involvement; and application and implementation of research findings.",
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 8,
+        "evidence": "This section focuses on eight areas of particular importance when considering the ethical aspects of an international research or intervention project: intent; reciprocity and balance of gain; high impact interventions; local organization involvement; cultural competency; sustainability; IRB involvement; and the application and implementation of research findings."
+      }
+    ],
+    "gold_groups": [
+      [
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 8,
+          "evidence": "This section focuses on eight areas of particular importance when considering the ethical aspects of an international research or intervention project: intent; reciprocity and balance of gain; high impact interventions; local organization involvement; cultural competency; sustainability; IRB involvement; and the application and implementation of research findings."
+        }
+      ]
+    ],
+    "filter": {
+      "section": "Chapter 1 - Ethics of Research Abroad"
+    }
+  },
+  {
+    "id": "Q003",
+    "split": "dev",
+    "question": "At the beginning of an overseas project, what information should a student make clear to local collaborators to prevent misunderstandings?",
+    "expected_answer": "The student should clearly communicate the project's purpose and the capabilities and limitations of the student or organization.",
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 8,
+        "evidence": "From the onset of any research or service project abroad, it is important to clearly communicate your project's purpose as well as your capabilities and limitations or those of your organization. Without a clear understanding of the purpose and capacity of the project, there may be misunderstandings between you and the people with whom you work while abroad."
+      }
+    ],
+    "gold_groups": [
+      [
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 8,
+          "evidence": "From the onset of any research or service project abroad, it is important to clearly communicate your project's purpose as well as your capabilities and limitations or those of your organization. Without a clear understanding of the purpose and capacity of the project, there may be misunderstandings between you and the people with whom you work while abroad."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "Q004",
+    "split": "dev",
+    "question": "A student feels pressure to offer additional services to a host community but is unsure whether they can deliver them. What does the handbook advise?",
+    "expected_answer": "The student should resist making promises unless they know they can keep them, because local people may develop false hopes or rely on services that cannot be provided.",
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 9,
+        "evidence": "However, resist making promises if you do not know for sure that you will be able to keep them. Local people may develop false hopes, or they may count on you for services you cannot provide."
+      }
+    ],
+    "gold_groups": [
+      [
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 9,
+          "evidence": "However, resist making promises if you do not know for sure that you will be able to keep them. Local people may develop false hopes, or they may count on you for services you cannot provide."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "Q005",
+    "split": "dev",
+    "question": "How should a research team weigh the demands its project places on a host community?",
+    "expected_answer": "It should examine the demands on people and resources before the project begins and weigh them against the potential benefits to members of the host community, avoiding disproportionate burdens or benefits.",
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 9,
+        "evidence": "Prior to the beginning of any research endeavor, the demands of your project on people and resources should be carefully examined and weighed against the potential benefits of the research to the members of the host community."
+      }
+    ],
+    "gold_groups": [
+      [
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 9,
+          "evidence": "Prior to the beginning of any research endeavor, the demands of your project on people and resources should be carefully examined and weighed against the potential benefits of the research to the members of the host community."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "Q006",
+    "split": "dev",
+    "question": "How does the handbook define cultural competency in the context of working abroad?",
+    "expected_answer": "It is the ability to interact with people of different cultures; in health-care settings it includes awareness of the regional specificities of the area served.",
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 11,
+        "evidence": "Cultural competency is the ability to interact with people of different cultures. In any health care setting, cultural competency specifically refers to awareness of the regional specificities present in the area serviced by the organization or clinic with whom a researcher will be working."
+      }
+    ],
+    "gold_groups": [
+      [
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 11,
+          "evidence": "Cultural competency is the ability to interact with people of different cultures. In any health care setting, cultural competency specifically refers to awareness of the regional specificities present in the area serviced by the organization or clinic with whom a researcher will be working."
+        }
+      ]
+    ],
+    "filter": {
+      "section": "Chapter 1 - Ethics of Research Abroad"
+    }
+  },
+  {
+    "id": "Q008",
+    "split": "dev",
+    "question": "When must IRB approval be obtained, and which kinds of research participants or conditions receive more stringent ethical approval requirements?",
+    "expected_answer": "IRB approval is required before a research study begins. Requirements are more stringent for vulnerable populations such as children, incarcerated persons, pregnant women, and people with impaired decisional capacity, as well as stigmatizing conditions such as HIV.",
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 11,
+        "evidence": "Every research study requires IRB approval prior to commencement."
+      },
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 11,
+        "evidence": "The conditions for ethical approval are more stringent for research studies in vulnerable populations such as children, incarcerated persons, pregnant women, and persons with impaired decisional capacity as well as conditions that are be stigmatizing such as HIV."
+      }
+    ],
+    "gold_groups": [
+      [
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 11,
+          "evidence": "Every research study requires IRB approval prior to commencement."
+        },
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 11,
+          "evidence": "The conditions for ethical approval are more stringent for research studies in vulnerable populations such as children, incarcerated persons, pregnant women, and persons with impaired decisional capacity as well as conditions that are be stigmatizing such as HIV."
+        }
+      ]
+    ],
+    "filter": {
+      "section": "Chapter 1 - Ethics of Research Abroad"
+    }
+  },
+  {
+    "id": "Q009",
+    "split": "dev",
+    "question": "Besides communicating findings to the scientific community, with whom should students share research or service project results?",
+    "expected_answer": "They should share findings with the local community, including study participants and relevant people or organizations that could benefit from and apply the knowledge.",
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 12,
+        "evidence": "Findings from research or service projects should be shared with the local community so that they can benefit directly from the work that the student has done. Students should disseminate their products and results to study participants or their community as applicable as well as to relevant persons or organizations that may benefit from this knowledge and be able to apply it in the future."
+      }
+    ],
+    "gold_groups": [
+      [
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 12,
+          "evidence": "Findings from research or service projects should be shared with the local community so that they can benefit directly from the work that the student has done. Students should disseminate their products and results to study participants or their community as applicable as well as to relevant persons or organizations that may benefit from this knowledge and be able to apply it in the future."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "Q010",
+    "split": "dev",
+    "question": "What forms can a 'design' take according to the handbook's definitions in Chapter 2?",
+    "expected_answer": "A design can be a technology, a process/system/service, a program/platform, or any combination of these.",
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 14,
+        "evidence": "A design can encompass the following: • Technology (e.g. device or \"thing\", software, consumable good) • Process/system/service (e.g. a way to distribute a good) • Program/platform (e.g. educational or training program) • Any combination of the above"
+      }
+    ],
+    "gold_groups": [
+      [
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 14,
+          "evidence": "A design can encompass the following: • Technology (e.g. device or \"thing\", software, consumable good) • Process/system/service (e.g. a way to distribute a good) • Program/platform (e.g. educational or training program) • Any combination of the above"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "Q011",
+    "split": "dev",
+    "question": "Which groups or roles does the handbook list as possible project partners?",
+    "expected_answer": "Community members, study subjects, community organizations, stakeholders, non-government leaders, and government officials.",
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 14,
+        "evidence": "Partners may include: • Members of the community • Study subjects • Community organizations • Stakeholders • Non-government leaders • Government officials"
+      }
+    ],
+    "gold_groups": [
+      [
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 14,
+          "evidence": "Partners may include: • Members of the community • Study subjects • Community organizations • Stakeholders • Non-government leaders • Government officials"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "Q012",
+    "split": "dev",
+    "question": "Why should a resource and needs assessment be conducted collaboratively with the community rather than imposed on it?",
+    "expected_answer": "Because it is intended to understand the community and the users of the intervention, and it must be a collaborative effort with them rather than something imposed on them.",
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 15,
+        "evidence": "A resource and needs assessment involves going out into the community to talk to the future users of your technology or program. This assessment provides insight into the community and the users who will interact with the intervention. To be successful, it must be a collaborative effort with the community, not one that is imposed upon the community."
+      }
+    ],
+    "gold_groups": [
+      [
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 15,
+          "evidence": "A resource and needs assessment involves going out into the community to talk to the future users of your technology or program. This assessment provides insight into the community and the users who will interact with the intervention. To be successful, it must be a collaborative effort with the community, not one that is imposed upon the community."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "Q013",
+    "split": "dev",
+    "question": "What should a problem statement specify, according to the Project Development chapter?",
+    "expected_answer": "It should state the situation to be addressed, who and what is affected, quantify the problem, and address an issue related to the project's purpose.",
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 16,
+        "evidence": "A problem statement states the situation that needs to be addressed, who and what is affected, quantifies the problem, and addresses an issue related to the purpose of the program or project."
+      }
+    ],
+    "gold_groups": [
+      [
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 16,
+          "evidence": "A problem statement states the situation that needs to be addressed, who and what is affected, quantifies the problem, and addresses an issue related to the purpose of the program or project."
+        }
+      ]
+    ],
+    "filter": {
+      "section": "Chapter 2 - Project Development with International Partners"
+    }
+  },
+  {
+    "id": "Q014",
+    "split": "dev",
+    "question": "When planning the design of a project, what should the team do if feedback from the host community indicates that the initial design needs changes?",
+    "expected_answer": "The project design should be finalized iteratively as feedback is received from the host community.",
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 17,
+        "evidence": "The finalization of the project design of the project should be an iterative process as feedback is received from the host community."
+      }
+    ],
+    "gold_groups": [
+      [
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 17,
+          "evidence": "The finalization of the project design of the project should be an iterative process as feedback is received from the host community."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "Q015",
+    "split": "test",
+    "question": "Which categories should students consider when preparing a personal budget for an overseas project?",
+    "expected_answer": "Living expenses, health, travel, pre-departure expenses, and other expenses such as leisure items and activities.",
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 17,
+        "evidence": "Categories to include in a personal budget include: − Living expenses (e.g., lodging, food, phone, in-country transit) − Health (e.g., health insurance, vaccinations, mosquito net, medications) − Travel (e.g., airfare, visa/passport, travel insurance, airport transit) − Pre-departure (e.g., gifts for hosts) − Other (e.g., leisure items and activities)"
+      }
+    ],
+    "gold_groups": [
+      [
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 17,
+          "evidence": "Categories to include in a personal budget include: − Living expenses (e.g., lodging, food, phone, in-country transit) − Health (e.g., health insurance, vaccinations, mosquito net, medications) − Travel (e.g., airfare, visa/passport, travel insurance, airport transit) − Pre-departure (e.g., gifts for hosts) − Other (e.g., leisure items and activities)"
+        }
+      ]
+    ]
+  },
+  {
+    "id": "Q016",
+    "split": "test",
+    "question": "During project implementation, how should responsibilities and communication among team members be organized?",
+    "expected_answer": "Specific tasks should be delineated and delegated, a system for regular feedback and adjustments should be established, and regular updates and meetings should be scheduled.",
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 18,
+        "evidence": "Delineate and delegate specific tasks to team members and make sure to have a system for regular feedback and adjustments in order to promote maximum efficiency. • Establish a schedule of regular updates and meetings among team members."
+      }
+    ],
+    "gold_groups": [
+      [
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 18,
+          "evidence": "Delineate and delegate specific tasks to team members and make sure to have a system for regular feedback and adjustments in order to promote maximum efficiency. • Establish a schedule of regular updates and meetings among team members."
+        }
+      ]
+    ],
+    "filter": {
+      "section": "Chapter 2 - Project Development with International Partners"
+    }
+  },
+  {
+    "id": "Q017",
+    "split": "test",
+    "question": "When deciding who owns ideas, documents, or technologies produced with international partners, whose input should be part of the discussion and what should guide the decision?",
+    "expected_answer": "All parties, including domestic advisors and international collaborators, should participate; local knowledge and local products should guide decisions about intellectual-property ownership, and exploitative behavior should be avoided.",
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 19,
+        "evidence": "All parties (including domestic advisors and international collaborators) must be a part of the discussion and exploitive behavior must be avoided."
+      },
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 19,
+        "evidence": "The influence of local knowledge and local products should guide the decision in determining the ownership of intellectual property."
+      }
+    ],
+    "gold_groups": [
+      [
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 19,
+          "evidence": "All parties (including domestic advisors and international collaborators) must be a part of the discussion and exploitive behavior must be avoided."
+        },
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 19,
+          "evidence": "The influence of local knowledge and local products should guide the decision in determining the ownership of intellectual property."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "Q018",
+    "split": "test",
+    "question": "At what stages should project evaluation take place, and when should evaluation metrics be outlined?",
+    "expected_answer": "Evaluation should take place at each stage of the project, and its metrics should be outlined during the planning stages.",
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 20,
+        "evidence": "Evaluation should take place at each stage of the project and metrics for evaluation should be outlined during the planning stages."
+      }
+    ],
+    "gold_groups": [
+      [
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 20,
+          "evidence": "Evaluation should take place at each stage of the project and metrics for evaluation should be outlined during the planning stages."
+        }
+      ]
+    ],
+    "filter": {
+      "section": "Chapter 2 - Project Development with International Partners"
+    }
+  },
+  {
+    "id": "Q020",
+    "split": "dev",
+    "question": "What makes collaboration between domestic and international partners genuinely collaborative throughout a project?",
+    "expected_answer": "Partners should be included in conceptualization, development, implementation, evaluation, and dissemination; they should discuss and agree on their goals, expectations, and compensation early.",
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 23,
+        "evidence": "Domestic and international partners should be included in all aspects of project conceptualization, development, implementation, evaluation, and dissemination of findings. Early in the process, all partners should discuss and agree upon their respective goals, expectations, and compensation."
+      }
+    ],
+    "gold_groups": [
+      [
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 23,
+          "evidence": "Domestic and international partners should be included in all aspects of project conceptualization, development, implementation, evaluation, and dissemination of findings. Early in the process, all partners should discuss and agree upon their respective goals, expectations, and compensation."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "Q001",
+    "split": "dev",
+    "question": "What five major areas does the handbook cover for students planning research or service abroad?",
+    "expected_answer": "The handbook covers Ethics of Research Abroad; Project Development with International Partners; Guidelines for Professional Behavior Abroad; Global Citizenship and Advocacy; and Logistics of Research and Service Abroad.",
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 6,
+        "evidence": "In this document, University of Michigan students who have experience doing research and service abroad have compiled recommendations and resources in five major areas: Ethics of Research Abroad, Project Development with International Partners, Guidelines for Professional Behavior Abroad, Global Citizenship and Advocacy, and Logistics of Research and Service Abroad."
+      }
+    ],
+    "gold_groups": [
+      [
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 6,
+          "evidence": "In this document, University of Michigan students who have experience doing research and service abroad have compiled recommendations and resources in five major areas: Ethics of Research Abroad, Project Development with International Partners, Guidelines for Professional Behavior Abroad, Global Citizenship and Advocacy, and Logistics of Research and Service Abroad."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "Q007",
+    "split": "dev",
+    "question": "What two broad types of sustainability does Chapter 1 describe?",
+    "expected_answer": "Fiscal sustainability of operations, and the concept of making a project sustainable by enabling local people to continue it without outside input or support.",
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 11,
+        "evidence": "Fiscal sustainability of operations. At the start, the leader of a research or service project may be particularly concerned with fiscal sustainability: Are there enough resources and funding to keep the project going?"
+      },
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 11,
+        "evidence": "\"Putting oneself out of business.\" This more advanced conceptualization of sustainability means implementing a research or service project so effectively that it no longer needs your input or support or can be sustained by local people without outside assistance."
+      }
+    ],
+    "gold_groups": [
+      [
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 11,
+          "evidence": "Fiscal sustainability of operations. At the start, the leader of a research or service project may be particularly concerned with fiscal sustainability: Are there enough resources and funding to keep the project going?"
+        },
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 11,
+          "evidence": "\"Putting oneself out of business.\" This more advanced conceptualization of sustainability means implementing a research or service project so effectively that it no longer needs your input or support or can be sustained by local people without outside assistance."
+        }
+      ]
+    ]
+  },
+  {
+    "id": "Q019",
+    "split": "test",
+    "question": "If local interpretations of confidentiality differ from a student's own expectations, what standard should the student try to maintain, and what should they avoid publishing without appropriate consent?",
+    "expected_answer": "The student should strive to maintain and display the highest possible standard of confidentiality and should not post or publish confidential or identifying images, information, or quotations in public domains without appropriate informed consent.",
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 22,
+        "evidence": "Because there are different interpretations, always strive to maintain and display the highest standard possible when considering confidentiality abroad."
+      },
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 22,
+        "evidence": "Refrain from posting and publishing confidential or identifying images, information, and quotations in public domains, including digital and/or social media (i.e. Facebook, MySpace, Twitter, blogs, etc.), without appropriate informed consent."
+      }
+    ],
+    "gold_groups": [
+      [
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 22,
+          "evidence": "Because there are different interpretations, always strive to maintain and display the highest standard possible when considering confidentiality abroad."
+        },
+        {
+          "source_id": "student_handbook_for_global_engagement",
+          "page": 22,
+          "evidence": "Refrain from posting and publishing confidential or identifying images, information, and quotations in public domains, including digital and/or social media (i.e. Facebook, MySpace, Twitter, blogs, etc.), without appropriate informed consent."
+        }
+      ]
+    ],
+    "filter": {
+      "section": "Chapter 3 - Guidelines for Professional Behavior Abroad"
+    }
+  }
+]

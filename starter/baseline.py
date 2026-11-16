@@ -47,8 +47,23 @@ def validate(chunks, questions):
                 raise ValueError(f"question {q['id']}: gold không nằm trọn trong chunk đúng nguồn/trang")
 
 
+def _normalise_evidence(text):
+    return re.sub(r"\s+", " ", unicodedata.normalize("NFKC", str(text or "")).replace("\u00a0", " ")).strip().casefold()
+
+
 def hit(chunk, gold):
-    return any(chunk['source_id'] == g['source_id'] and chunk['page'] == g['page'] and g['evidence'] in chunk['text'] for g in gold)
+    chunk_text = _normalise_evidence(chunk['text'])
+    return any(chunk['source_id'] == g['source_id'] and chunk['page'] == g['page']
+               and _normalise_evidence(g['evidence']) in chunk_text for g in gold)
+
+
+def question_hit(results, question):
+    """All evidence spans in one gold group must be present; groups are alternatives."""
+    groups = question.get('gold_groups')
+    if not groups:
+        return any(hit(chunk, question['gold']) for chunk in results)
+    return any(all(any(hit(chunk, [evidence]) for chunk in results) for evidence in group)
+               for group in groups)
 
 
 class TfidfIndex:
