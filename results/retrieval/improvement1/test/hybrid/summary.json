@@ -1,0 +1,30 @@
+{
+  "experiment": "improvement_1",
+  "description": "TF-IDF retrieval with top-k=5 and context budget=2400",
+  "method": "hybrid",
+  "split": "test",
+  "n": 5,
+  "hit1": {
+    "n": 2,
+    "N": 5,
+    "rate": 0.4
+  },
+  "evidence_hit3": {
+    "n": 4,
+    "N": 5,
+    "rate": 0.8
+  },
+  "context_evidence_rate": {
+    "n": 4,
+    "N": 5,
+    "rate": 0.8
+  },
+  "median_ms": 123.4160999993037,
+  "avg_context_chars": 2252.8,
+  "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "embedding_dimensions": 384,
+  "vector_strategy": "C",
+  "top_k": 5,
+  "context_budget_chars": 2400,
+  "service_cost_usd": 0
+}

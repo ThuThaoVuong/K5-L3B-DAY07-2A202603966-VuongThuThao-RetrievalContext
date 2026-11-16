@@ -1,0 +1,2005 @@
+[
+  {
+    "query_id": "Q002",
+    "split": "dev",
+    "question": "Which eight areas does Chapter 1 identify as particularly important when considering the ethics of an international research or intervention project?",
+    "answerable": true,
+    "status": "answered",
+    "answer": "Chapter 1 identifies the following eight areas as particularly important when considering the ethics of an international research or intervention project: intent; reciprocity and balance of gain; high impact interventions; local organization involvement; cultural competency; sustainability; IRB involvement; and the application and implementation of research findings. [student_handbook_for_global_engagement-p008-C-0001-5dcdc53692af531d]",
+    "citations": [
+      "student_handbook_for_global_engagement-p008-C-0001-5dcdc53692af531d"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Chapter 1 ethics international research intervention project important areas",
+        "filter": {
+          "section": "Chapter 1 - Ethics of Research Abroad"
+        },
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p008-C-0000-7669f56cbd5c9618",
+            "text": "Chapter 1\nEthics of Research Abroad\n\n1.1 Introduction\n\nPerforming research or service abroad is ethically complex. Even with the best of intentions, it\nis possible to inadvertently do harm if you are not careful to examine all relevant ethical\nconsiderations when planning and implementing a project and when disseminating its results.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 8,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p008",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 335,
+              "char_start": 0,
+              "chunk_index": 0,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03225806451612903
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p008-C-0001-5dcdc53692af531d",
+            "text": "This section focuses on eight areas of particular importance when considering the ethical\naspects of an international research or intervention project: intent; reciprocity and balance of\ngain; high impact interventions; local organization involvement; cultural competency;\nsustainability; IRB involvement; and the application and implementation of research\nfindings. We discuss the primary ethical considerations involved in each phase of the\nproject.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 8,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p008",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 788,
+              "char_start": 337,
+              "chunk_index": 1,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.032018442622950824
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p011-C-0000-6392f6dd69d7f481",
+            "text": "Ethics of Research Abroad\n\n1.6 Cultural Competency",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 11,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p011",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 50,
+              "char_start": 0,
+              "chunk_index": 0,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03177805800756621
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p008-C-0000-7669f56cbd5c9618 | student_handbook_for_global_engagement | page 8]\nChapter 1\nEthics of Research Abroad\n\n1.1 Introduction\n\nPerforming research or service abroad is ethically complex. Even with the best of intentions, it\nis possible to inadvertently do harm if you are not careful to examine all relevant ethical\nconsiderations when planning and implementing a project and when disseminating its results.\n\n[student_handbook_for_global_engagement-p008-C-0001-5dcdc53692af531d | student_handbook_for_global_engagement | page 8]\nThis section focuses on eight areas of particular importance when considering the ethical\naspects of an international research or intervention project: intent; reciprocity and balance of\ngain; high impact interventions; local organization involvement; cultural competency;\nsustainability; IRB involvement; and the application and implementation of research\nfindings. We discuss the primary ethical considerations involved in each phase of the\nproject.\n\n[student_handbook_for_global_engagement-p011-C-0000-6392f6dd69d7f481 | student_handbook_for_global_engagement | page 11]\nEthics of Research Abroad\n\n1.6 Cultural Competency",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p008-C-0000-7669f56cbd5c9618",
+          "student_handbook_for_global_engagement-p008-C-0001-5dcdc53692af531d",
+          "student_handbook_for_global_engagement-p011-C-0000-6392f6dd69d7f481"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 7805.172300000777,
+    "model": "gpt-4o-mini",
+    "method": "hybrid"
+  },
+  {
+    "query_id": "Q003",
+    "split": "dev",
+    "question": "At the beginning of an overseas project, what information should a student make clear to local collaborators to prevent misunderstandings?",
+    "answerable": true,
+    "status": "answered",
+    "answer": "At the beginning of an overseas project, a student should make clear the project's plan and scope to local collaborators. This includes sharing specific details about what will be done, the questions that will be asked, and the services that will be provided. Ensuring that local collaborators have a clear understanding of the project's purpose is crucial for effective collaboration. Additionally, empowering local collaborators with knowledge and recognizing the importance of mutual information exchange can contribute to the project's sustainability [student_handbook_for_global_engagement-p008-C-0004-d0707fcd75e2f818][student_handbook_for_global_engagement-p015-C-0004-747eef0ef31aecb5].",
+    "citations": [
+      "student_handbook_for_global_engagement-p008-C-0004-d0707fcd75e2f818",
+      "student_handbook_for_global_engagement-p015-C-0004-747eef0ef31aecb5"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "overseas project information for local collaborators",
+        "filter": null,
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p015-C-0004-747eef0ef31aecb5",
+            "text": "• Empowering international collaborators and local citizens with knowledge and expertise\nto meet project goals will contribute to the sustainability of the project. Students should\nbe open to the mutual exchange of information and recognize that there is much to learn\nfrom local customs and operations.\n• See Chapter 4, Global Citizenship and Advocacy for more information on establishing\npartnerships.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 15,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p015",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 1872,
+              "char_start": 1469,
+              "chunk_index": 4,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03278688524590164
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p008-C-0004-d0707fcd75e2f818",
+            "text": "Have a clear plan of the project and its scope from the outset.\n• Share the plan with local collaborators. They should have a clear understanding of exactly\nwhat will be done during the course of the project, specifically, what questions will be\nasked or what services will be provided. Local collaborators will not be able to collaborate\neffectively on the project if they do not have a clear understanding of its purpose.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 8,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p008",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 2105,
+              "char_start": 1682,
+              "chunk_index": 4,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.031746031746031744
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p008-C-0005-dd41928fe17b210d",
+            "text": "Ideally,\nthese local collaborators will be involved in the project from inception through\nimplementation, as discussed below.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 8,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p008",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 2231,
+              "char_start": 2106,
+              "chunk_index": 5,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.0315136476426799
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p015-C-0004-747eef0ef31aecb5 | student_handbook_for_global_engagement | page 15]\n• Empowering international collaborators and local citizens with knowledge and expertise\nto meet project goals will contribute to the sustainability of the project. Students should\nbe open to the mutual exchange of information and recognize that there is much to learn\nfrom local customs and operations.\n• See Chapter 4, Global Citizenship and Advocacy for more information on establishing\npartnerships.\n\n[student_handbook_for_global_engagement-p008-C-0004-d0707fcd75e2f818 | student_handbook_for_global_engagement | page 8]\nHave a clear plan of the project and its scope from the outset.\n• Share the plan with local collaborators. They should have a clear understanding of exactly\nwhat will be done during the course of the project, specifically, what questions will be\nasked or what services will be provided. Local collaborators will not be able to collaborate\neffectively on the project if they do not have a clear understanding of its purpose.\n\n[student_handbook_for_global_engagement-p008-C-0005-dd41928fe17b210d | student_handbook_for_global_engagement | page 8]\nIdeally,\nthese local collaborators will be involved in the project from inception through\nimplementation, as discussed below.",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p015-C-0004-747eef0ef31aecb5",
+          "student_handbook_for_global_engagement-p008-C-0004-d0707fcd75e2f818",
+          "student_handbook_for_global_engagement-p008-C-0005-dd41928fe17b210d"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 5730.500900001061,
+    "model": "gpt-4o-mini",
+    "method": "hybrid"
+  },
+  {
+    "query_id": "Q004",
+    "split": "dev",
+    "question": "A student feels pressure to offer additional services to a host community but is unsure whether they can deliver them. What does the handbook advise?",
+    "answerable": true,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "student pressure additional services host community",
+        "filter": null,
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p023-C-0007-7a86c937f4c783a6",
+            "text": "Student Handbook for Global Engagement 21",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 23,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p023",
+              "section": "Chapter 3 - Guidelines for Professional Behavior Abroad",
+              "char_end": 3221,
+              "char_start": 3180,
+              "chunk_index": 7,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03125
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p009-C-0006-d6cdf9b6a64ea2e2",
+            "text": "Attempt to maximize potential benefits to the host community.\n• Research should be designed with the host community as the primary beneficiary.\n• Collaboration should begin in the planning stages of a project in order to ensure that an\nissue of interest to the researcher is also one identified as important by the community.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 9,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p009",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 2578,
+              "char_start": 2253,
+              "chunk_index": 6,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.031054405392392875
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p028-C-0005-ff7bb52ad69b1689",
+            "text": "Engage host community advocacy organizations in policy agenda setting.\n• To achieve lasting impact in a community, it may be important to identify and engage\nrelevant advocacy organizations in the host community. In involving these parties in\nagenda setting, your work can help form networks among organizations with similar\ninterests to further future collaborations.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 28,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p028",
+              "section": "Chapter 4 - Global Citizenship and Advocacy",
+              "char_end": 2322,
+              "char_start": 1954,
+              "chunk_index": 5,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03057889822595705
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p023-C-0007-7a86c937f4c783a6 | student_handbook_for_global_engagement | page 23]\nStudent Handbook for Global Engagement 21\n\n[student_handbook_for_global_engagement-p009-C-0006-d6cdf9b6a64ea2e2 | student_handbook_for_global_engagement | page 9]\nAttempt to maximize potential benefits to the host community.\n• Research should be designed with the host community as the primary beneficiary.\n• Collaboration should begin in the planning stages of a project in order to ensure that an\nissue of interest to the researcher is also one identified as important by the community.\n\n[student_handbook_for_global_engagement-p028-C-0005-ff7bb52ad69b1689 | student_handbook_for_global_engagement | page 28]\nEngage host community advocacy organizations in policy agenda setting.\n• To achieve lasting impact in a community, it may be important to identify and engage\nrelevant advocacy organizations in the host community. In involving these parties in\nagenda setting, your work can help form networks among organizations with similar\ninterests to further future collaborations.",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p023-C-0007-7a86c937f4c783a6",
+          "student_handbook_for_global_engagement-p009-C-0006-d6cdf9b6a64ea2e2",
+          "student_handbook_for_global_engagement-p028-C-0005-ff7bb52ad69b1689"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "student unsure deliver additional services host community",
+        "filter": null,
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p023-C-0007-7a86c937f4c783a6",
+            "text": "Student Handbook for Global Engagement 21",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 23,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p023",
+              "section": "Chapter 3 - Guidelines for Professional Behavior Abroad",
+              "char_end": 3221,
+              "char_start": 3180,
+              "chunk_index": 7,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03149801587301587
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p009-C-0006-d6cdf9b6a64ea2e2",
+            "text": "Attempt to maximize potential benefits to the host community.\n• Research should be designed with the host community as the primary beneficiary.\n• Collaboration should begin in the planning stages of a project in order to ensure that an\nissue of interest to the researcher is also one identified as important by the community.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 9,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p009",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 2578,
+              "char_start": 2253,
+              "chunk_index": 6,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03128054740957967
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p025-C-0004-b1eaa769da4f7973",
+            "text": "• Consider taking cooking classes or learning to cook the local food from one of your friends\nor a member of your host family.\n• Attend cultural events, especially public celebrations, to learn about the values and\nculture of your host community.\n• Volunteer with a local organization.\n\nStudent Handbook for Global Engagement 23",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 25,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p025",
+              "section": "Chapter 3 - Guidelines for Professional Behavior Abroad",
+              "char_end": 2029,
+              "char_start": 1701,
+              "chunk_index": 4,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.030158730158730156
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p023-C-0007-7a86c937f4c783a6 | student_handbook_for_global_engagement | page 23]\nStudent Handbook for Global Engagement 21\n\n[student_handbook_for_global_engagement-p009-C-0006-d6cdf9b6a64ea2e2 | student_handbook_for_global_engagement | page 9]\nAttempt to maximize potential benefits to the host community.\n• Research should be designed with the host community as the primary beneficiary.\n• Collaboration should begin in the planning stages of a project in order to ensure that an\nissue of interest to the researcher is also one identified as important by the community.\n\n[student_handbook_for_global_engagement-p028-C-0005-ff7bb52ad69b1689 | student_handbook_for_global_engagement | page 28]\nEngage host community advocacy organizations in policy agenda setting.\n• To achieve lasting impact in a community, it may be important to identify and engage\nrelevant advocacy organizations in the host community. In involving these parties in\nagenda setting, your work can help form networks among organizations with similar\ninterests to further future collaborations.\n\n[student_handbook_for_global_engagement-p025-C-0004-b1eaa769da4f7973 | student_handbook_for_global_engagement | page 25]\n• Consider taking cooking classes or learning to cook the local food from one of your friends\nor a member of your host family.\n• Attend cultural events, especially public celebrations, to learn about the values and\nculture of your host community.\n• Volunteer with a local organization.\n\nStudent Handbook for Global Engagement 23",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p023-C-0007-7a86c937f4c783a6",
+          "student_handbook_for_global_engagement-p009-C-0006-d6cdf9b6a64ea2e2",
+          "student_handbook_for_global_engagement-p028-C-0005-ff7bb52ad69b1689",
+          "student_handbook_for_global_engagement-p025-C-0004-b1eaa769da4f7973"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "student pressure additional services host community advice",
+        "filter": null,
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p023-C-0007-7a86c937f4c783a6",
+            "text": "Student Handbook for Global Engagement 21",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 23,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p023",
+              "section": "Chapter 3 - Guidelines for Professional Behavior Abroad",
+              "char_end": 3221,
+              "char_start": 3180,
+              "chunk_index": 7,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03125763125763126
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p028-C-0005-ff7bb52ad69b1689",
+            "text": "Engage host community advocacy organizations in policy agenda setting.\n• To achieve lasting impact in a community, it may be important to identify and engage\nrelevant advocacy organizations in the host community. In involving these parties in\nagenda setting, your work can help form networks among organizations with similar\ninterests to further future collaborations.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 28,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p028",
+              "section": "Chapter 4 - Global Citizenship and Advocacy",
+              "char_end": 2322,
+              "char_start": 1954,
+              "chunk_index": 5,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.029910714285714284
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p009-C-0004-09ba52c2cb234b44",
+            "text": "Limit the burden of research on a host community.\n• Research may unintentionally impose burdens upon the host community. Projects may\nrequire local residents and staff to dedicate economic resources or time that could be\nbetter used elsewhere. Additionally, demands placed on the local infrastructure by\nresearch projects can have negative effects on the target community.\n• Avoid taking away resources and personnel from existing projects of local importance.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 9,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p009",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 1844,
+              "char_start": 1384,
+              "chunk_index": 4,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.028594771241830064
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p023-C-0007-7a86c937f4c783a6 | student_handbook_for_global_engagement | page 23]\nStudent Handbook for Global Engagement 21\n\n[student_handbook_for_global_engagement-p009-C-0006-d6cdf9b6a64ea2e2 | student_handbook_for_global_engagement | page 9]\nAttempt to maximize potential benefits to the host community.\n• Research should be designed with the host community as the primary beneficiary.\n• Collaboration should begin in the planning stages of a project in order to ensure that an\nissue of interest to the researcher is also one identified as important by the community.\n\n[student_handbook_for_global_engagement-p028-C-0005-ff7bb52ad69b1689 | student_handbook_for_global_engagement | page 28]\nEngage host community advocacy organizations in policy agenda setting.\n• To achieve lasting impact in a community, it may be important to identify and engage\nrelevant advocacy organizations in the host community. In involving these parties in\nagenda setting, your work can help form networks among organizations with similar\ninterests to further future collaborations.\n\n[student_handbook_for_global_engagement-p025-C-0004-b1eaa769da4f7973 | student_handbook_for_global_engagement | page 25]\n• Consider taking cooking classes or learning to cook the local food from one of your friends\nor a member of your host family.\n• Attend cultural events, especially public celebrations, to learn about the values and\nculture of your host community.\n• Volunteer with a local organization.\n\nStudent Handbook for Global Engagement 23",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p023-C-0007-7a86c937f4c783a6",
+          "student_handbook_for_global_engagement-p009-C-0006-d6cdf9b6a64ea2e2",
+          "student_handbook_for_global_engagement-p028-C-0005-ff7bb52ad69b1689",
+          "student_handbook_for_global_engagement-p025-C-0004-b1eaa769da4f7973"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_ms": 5025.8095000008325,
+    "model": "gpt-4o-mini",
+    "method": "hybrid"
+  },
+  {
+    "query_id": "Q005",
+    "split": "dev",
+    "question": "How should a research team weigh the demands its project places on a host community?",
+    "answerable": true,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "weigh demands project host community research team",
+        "filter": null,
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p009-C-0003-55a4ad524423b623",
+            "text": "Prior to the beginning of any research endeavor, the\ndemands of your project on people and resources should be carefully examined and weighed\nagainst the potential benefits of the research to the members of the host community.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 9,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p009",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 1382,
+              "char_start": 1156,
+              "chunk_index": 3,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.032266458495966696
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p009-C-0006-d6cdf9b6a64ea2e2",
+            "text": "Attempt to maximize potential benefits to the host community.\n• Research should be designed with the host community as the primary beneficiary.\n• Collaboration should begin in the planning stages of a project in order to ensure that an\nissue of interest to the researcher is also one identified as important by the community.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 9,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p009",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 2578,
+              "char_start": 2253,
+              "chunk_index": 6,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.032266458495966696
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p009-C-0004-09ba52c2cb234b44",
+            "text": "Limit the burden of research on a host community.\n• Research may unintentionally impose burdens upon the host community. Projects may\nrequire local residents and staff to dedicate economic resources or time that could be\nbetter used elsewhere. Additionally, demands placed on the local infrastructure by\nresearch projects can have negative effects on the target community.\n• Avoid taking away resources and personnel from existing projects of local importance.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 9,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p009",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 1844,
+              "char_start": 1384,
+              "chunk_index": 4,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03225806451612903
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p009-C-0003-55a4ad524423b623 | student_handbook_for_global_engagement | page 9]\nPrior to the beginning of any research endeavor, the\ndemands of your project on people and resources should be carefully examined and weighed\nagainst the potential benefits of the research to the members of the host community.\n\n[student_handbook_for_global_engagement-p009-C-0006-d6cdf9b6a64ea2e2 | student_handbook_for_global_engagement | page 9]\nAttempt to maximize potential benefits to the host community.\n• Research should be designed with the host community as the primary beneficiary.\n• Collaboration should begin in the planning stages of a project in order to ensure that an\nissue of interest to the researcher is also one identified as important by the community.\n\n[student_handbook_for_global_engagement-p009-C-0004-09ba52c2cb234b44 | student_handbook_for_global_engagement | page 9]\nLimit the burden of research on a host community.\n• Research may unintentionally impose burdens upon the host community. Projects may\nrequire local residents and staff to dedicate economic resources or time that could be\nbetter used elsewhere. Additionally, demands placed on the local infrastructure by\nresearch projects can have negative effects on the target community.\n• Avoid taking away resources and personnel from existing projects of local importance.",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p009-C-0003-55a4ad524423b623",
+          "student_handbook_for_global_engagement-p009-C-0006-d6cdf9b6a64ea2e2",
+          "student_handbook_for_global_engagement-p009-C-0004-09ba52c2cb234b44"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_ms": 4907.724900000176,
+    "model": "gpt-4o-mini",
+    "method": "hybrid"
+  },
+  {
+    "query_id": "Q006",
+    "split": "dev",
+    "question": "How does the handbook define cultural competency in the context of working abroad?",
+    "answerable": true,
+    "status": "answered",
+    "answer": "The handbook defines cultural competency in the context of working abroad as the essential understanding of a region's sociocultural, historical, and political environment to ease the transition into a new community. It emphasizes the importance of entering an unfamiliar setting with as much knowledge as possible to navigate challenges effectively [student_handbook_for_global_engagement-p011-C-0002-21c50e5e2a71ddc4].",
+    "citations": [
+      "student_handbook_for_global_engagement-p011-C-0002-21c50e5e2a71ddc4"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "cultural competency working abroad",
+        "filter": {
+          "section": "Chapter 1 - Ethics of Research Abroad"
+        },
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p011-C-0000-6392f6dd69d7f481",
+            "text": "Ethics of Research Abroad\n\n1.6 Cultural Competency",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 11,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p011",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 50,
+              "char_start": 0,
+              "chunk_index": 0,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03252247488101534
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p011-C-0002-21c50e5e2a71ddc4",
+            "text": "The importance of cultural competency\n• There are many challenges to performing research or service in the global arena. When\nentering an unfamiliar setting, it is essential that you enter as enlightened as possible\nwith respect to the region’s sociocultural, historical, and political environment.\n• Background knowledge eases transition into a new community.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 11,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p011",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 884,
+              "char_start": 524,
+              "chunk_index": 2,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03177805800756621
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p013-C-0000-efdb1b0c2f100157",
+            "text": "Ethics of Research Abroad\n\n1.10 Resources\n\nCultural Competency\nhttp://www.uniteforsight.org/cultural-competency/\nUnite for Site has an online learning module on cultural competency in the international\nand clinical setting. This online module is free and open to all and is designed to help individuals\nbetter understand their impact on the communities in which they work.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 13,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p013",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 372,
+              "char_start": 0,
+              "chunk_index": 0,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.031754032258064516
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p011-C-0000-6392f6dd69d7f481 | student_handbook_for_global_engagement | page 11]\nEthics of Research Abroad\n\n1.6 Cultural Competency\n\n[student_handbook_for_global_engagement-p011-C-0002-21c50e5e2a71ddc4 | student_handbook_for_global_engagement | page 11]\nThe importance of cultural competency\n• There are many challenges to performing research or service in the global arena. When\nentering an unfamiliar setting, it is essential that you enter as enlightened as possible\nwith respect to the region’s sociocultural, historical, and political environment.\n• Background knowledge eases transition into a new community.\n\n[student_handbook_for_global_engagement-p013-C-0000-efdb1b0c2f100157 | student_handbook_for_global_engagement | page 13]\nEthics of Research Abroad\n\n1.10 Resources\n\nCultural Competency\nhttp://www.uniteforsight.org/cultural-competency/\nUnite for Site has an online learning module on cultural competency in the international\nand clinical setting. This online module is free and open to all and is designed to help individuals\nbetter understand their impact on the communities in which they work.",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p011-C-0000-6392f6dd69d7f481",
+          "student_handbook_for_global_engagement-p011-C-0002-21c50e5e2a71ddc4",
+          "student_handbook_for_global_engagement-p013-C-0000-efdb1b0c2f100157"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3381.785600000512,
+    "model": "gpt-4o-mini",
+    "method": "hybrid"
+  },
+  {
+    "query_id": "Q008",
+    "split": "dev",
+    "question": "When must IRB approval be obtained, and which kinds of research participants or conditions receive more stringent ethical approval requirements?",
+    "answerable": true,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "IRB approval requirements research participants ethical approval",
+        "filter": {
+          "section": "Chapter 1 - Ethics of Research Abroad"
+        },
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p011-C-0009-2f5c78f4d5c24f8a",
+            "text": "The conditions for ethical\napproval are more stringent for research studies in vulnerable populations such as children,\nincarcerated persons, pregnant women, and persons with impaired decisional capacity as\nwell as conditions that are be stigmatizing such as HIV.\n\nMore details and specific tips on applying for IRB approval can be found in Chapter 2, Project\nDevelopment with International Partners.\n\nStudent Handbook for Global Engagement 9",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 11,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p011",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 2983,
+              "char_start": 2541,
+              "chunk_index": 9,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03278688524590164
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p011-C-0008-2e9fb3baa2a699fd",
+            "text": "Institutional Review Boards (IRB) were instituted to serve as a mechanism to protect the\nrights and welfare of human subjects involved in biomedical and behavioral research. Every\nresearch study requires IRB approval prior to commencement.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 11,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p011",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 2540,
+              "char_start": 2301,
+              "chunk_index": 8,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03225806451612903
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p013-C-0004-f30f83c4a49aefd9",
+            "text": "Institutional Review Board (IRB)\nhttp://med.umich.edu/irbmed/index.htm\nWebsite of the IRB at the University of Michigan.\n\nhttp://my.research.umich.edu/peerrs/\nOnline educational tool for research ethics required by University of Michigan for all researchers.\n\nhttp://www.hhs.gov/ohrp/irb/irb_introduction.htm#b3\nInstitutional Review boards: A guide book\n\nStudent Handbook for Global Engagement 11",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 13,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p013",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 2005,
+              "char_start": 1609,
+              "chunk_index": 4,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03125763125763126
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p011-C-0009-2f5c78f4d5c24f8a | student_handbook_for_global_engagement | page 11]\nThe conditions for ethical\napproval are more stringent for research studies in vulnerable populations such as children,\nincarcerated persons, pregnant women, and persons with impaired decisional capacity as\nwell as conditions that are be stigmatizing such as HIV.\n\nMore details and specific tips on applying for IRB approval can be found in Chapter 2, Project\nDevelopment with International Partners.\n\nStudent Handbook for Global Engagement 9\n\n[student_handbook_for_global_engagement-p011-C-0008-2e9fb3baa2a699fd | student_handbook_for_global_engagement | page 11]\nInstitutional Review Boards (IRB) were instituted to serve as a mechanism to protect the\nrights and welfare of human subjects involved in biomedical and behavioral research. Every\nresearch study requires IRB approval prior to commencement.\n\n[student_handbook_for_global_engagement-p013-C-0004-f30f83c4a49aefd9 | student_handbook_for_global_engagement | page 13]\nInstitutional Review Board (IRB)\nhttp://med.umich.edu/irbmed/index.htm\nWebsite of the IRB at the University of Michigan.\n\nhttp://my.research.umich.edu/peerrs/\nOnline educational tool for research ethics required by University of Michigan for all researchers.\n\nhttp://www.hhs.gov/ohrp/irb/irb_introduction.htm#b3\nInstitutional Review boards: A guide book\n\nStudent Handbook for Global Engagement 11",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p011-C-0009-2f5c78f4d5c24f8a",
+          "student_handbook_for_global_engagement-p011-C-0008-2e9fb3baa2a699fd",
+          "student_handbook_for_global_engagement-p013-C-0004-f30f83c4a49aefd9"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_ms": 4015.8813999987615,
+    "model": "gpt-4o-mini",
+    "method": "hybrid"
+  },
+  {
+    "query_id": "Q009",
+    "split": "dev",
+    "question": "Besides communicating findings to the scientific community, with whom should students share research or service project results?",
+    "answerable": true,
+    "status": "answered",
+    "answer": "Students should share research or service project results with the local community, study participants, and relevant persons or organizations that may benefit from the knowledge and be able to apply it in the future [student_handbook_for_global_engagement-p012-C-0003-a6e0eb2dc99be2a4].",
+    "citations": [
+      "student_handbook_for_global_engagement-p012-C-0003-a6e0eb2dc99be2a4"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "students share research or service project results",
+        "filter": null,
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p012-C-0004-4214bd48ae4e0fee",
+            "text": "More details and specific tips on disseminating the results of research and service projects can\nbe found in Chapter 2, Project Development with International Partners.\n\n10 University of Michigan Center for Global Health",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 12,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p012",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 1573,
+              "char_start": 1353,
+              "chunk_index": 4,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03149801587301587
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p009-C-0008-e38186d5695d951f",
+            "text": "For further information on dissemination of\nresearch results see Chapter 2, Project Development with International Partners.\n\n1.4 High Impact Projects\n\nResearch or service projects abroad should seek to exert the greatest possible positive impact\non the local community, the scientific community, and/or the global community.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 9,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p009",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 3366,
+              "char_start": 3041,
+              "chunk_index": 8,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.031009615384615385
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p012-C-0003-a6e0eb2dc99be2a4",
+            "text": "Involving the community in dissemination of findings\n• Findings from research or service projects should be shared with the local community so\nthat they can benefit directly from the work that the student has done. Students should\ndisseminate their products and results to study participants or their community as\napplicable as well as to relevant persons or organizations that may benefit from this\nknowledge and be able to apply it in the future.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 12,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p012",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 1351,
+              "char_start": 903,
+              "chunk_index": 3,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03047794966520434
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p012-C-0004-4214bd48ae4e0fee | student_handbook_for_global_engagement | page 12]\nMore details and specific tips on disseminating the results of research and service projects can\nbe found in Chapter 2, Project Development with International Partners.\n\n10 University of Michigan Center for Global Health\n\n[student_handbook_for_global_engagement-p009-C-0008-e38186d5695d951f | student_handbook_for_global_engagement | page 9]\nFor further information on dissemination of\nresearch results see Chapter 2, Project Development with International Partners.\n\n1.4 High Impact Projects\n\nResearch or service projects abroad should seek to exert the greatest possible positive impact\non the local community, the scientific community, and/or the global community.\n\n[student_handbook_for_global_engagement-p012-C-0003-a6e0eb2dc99be2a4 | student_handbook_for_global_engagement | page 12]\nInvolving the community in dissemination of findings\n• Findings from research or service projects should be shared with the local community so\nthat they can benefit directly from the work that the student has done. Students should\ndisseminate their products and results to study participants or their community as\napplicable as well as to relevant persons or organizations that may benefit from this\nknowledge and be able to apply it in the future.",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p012-C-0004-4214bd48ae4e0fee",
+          "student_handbook_for_global_engagement-p009-C-0008-e38186d5695d951f",
+          "student_handbook_for_global_engagement-p012-C-0003-a6e0eb2dc99be2a4"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3351.4795000010054,
+    "model": "gpt-4o-mini",
+    "method": "hybrid"
+  },
+  {
+    "query_id": "Q010",
+    "split": "dev",
+    "question": "What forms can a 'design' take according to the handbook's definitions in Chapter 2?",
+    "answerable": true,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "design definitions Chapter 2",
+        "filter": null,
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p014-C-0000-21764bfada4930ef",
+            "text": "Chapter 2\nProject Development with International Partners\n\n2.1 Introduction",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 14,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p014",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 75,
+              "char_start": 0,
+              "chunk_index": 0,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.032018442622950824
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p014-C-0001-fb63cbf007f37868",
+            "text": "This section includes guiding principles, best practices, and issues to consider when developing\nprojects with international partners. It is organized into sections pertaining to the different\nstages of a project – planning, designing, implementation, and evaluation. Although the\norganization appears to be linear, please realize that the design process will be an iterative\nprocess where feedback at each step is used to make improvements in the design and design\nprocess.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 14,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p014",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 551,
+              "char_start": 77,
+              "chunk_index": 1,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.031746031746031744
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p015-C-0000-2b7a4f1e7dea4116",
+            "text": "Project Development with International Partners\n\n2.2 The Planning Stage",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 15,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p015",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 71,
+              "char_start": 0,
+              "chunk_index": 0,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03021353930031804
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p014-C-0000-21764bfada4930ef | student_handbook_for_global_engagement | page 14]\nChapter 2\nProject Development with International Partners\n\n2.1 Introduction\n\n[student_handbook_for_global_engagement-p014-C-0001-fb63cbf007f37868 | student_handbook_for_global_engagement | page 14]\nThis section includes guiding principles, best practices, and issues to consider when developing\nprojects with international partners. It is organized into sections pertaining to the different\nstages of a project – planning, designing, implementation, and evaluation. Although the\norganization appears to be linear, please realize that the design process will be an iterative\nprocess where feedback at each step is used to make improvements in the design and design\nprocess.\n\n[student_handbook_for_global_engagement-p015-C-0000-2b7a4f1e7dea4116 | student_handbook_for_global_engagement | page 15]\nProject Development with International Partners\n\n2.2 The Planning Stage",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p014-C-0000-21764bfada4930ef",
+          "student_handbook_for_global_engagement-p014-C-0001-fb63cbf007f37868",
+          "student_handbook_for_global_engagement-p015-C-0000-2b7a4f1e7dea4116"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "design forms definitions Chapter 2",
+        "filter": null,
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p014-C-0001-fb63cbf007f37868",
+            "text": "This section includes guiding principles, best practices, and issues to consider when developing\nprojects with international partners. It is organized into sections pertaining to the different\nstages of a project – planning, designing, implementation, and evaluation. Although the\norganization appears to be linear, please realize that the design process will be an iterative\nprocess where feedback at each step is used to make improvements in the design and design\nprocess.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 14,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p014",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 551,
+              "char_start": 77,
+              "chunk_index": 1,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03200204813108039
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p014-C-0000-21764bfada4930ef",
+            "text": "Chapter 2\nProject Development with International Partners\n\n2.1 Introduction",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 14,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p014",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 75,
+              "char_start": 0,
+              "chunk_index": 0,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03177805800756621
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p015-C-0000-2b7a4f1e7dea4116",
+            "text": "Project Development with International Partners\n\n2.2 The Planning Stage",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 15,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p015",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 71,
+              "char_start": 0,
+              "chunk_index": 0,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03021353930031804
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p014-C-0000-21764bfada4930ef | student_handbook_for_global_engagement | page 14]\nChapter 2\nProject Development with International Partners\n\n2.1 Introduction\n\n[student_handbook_for_global_engagement-p014-C-0001-fb63cbf007f37868 | student_handbook_for_global_engagement | page 14]\nThis section includes guiding principles, best practices, and issues to consider when developing\nprojects with international partners. It is organized into sections pertaining to the different\nstages of a project – planning, designing, implementation, and evaluation. Although the\norganization appears to be linear, please realize that the design process will be an iterative\nprocess where feedback at each step is used to make improvements in the design and design\nprocess.\n\n[student_handbook_for_global_engagement-p015-C-0000-2b7a4f1e7dea4116 | student_handbook_for_global_engagement | page 15]\nProject Development with International Partners\n\n2.2 The Planning Stage",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p014-C-0000-21764bfada4930ef",
+          "student_handbook_for_global_engagement-p014-C-0001-fb63cbf007f37868",
+          "student_handbook_for_global_engagement-p015-C-0000-2b7a4f1e7dea4116"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "design forms definitions Chapter 2",
+        "filter": null,
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p014-C-0001-fb63cbf007f37868",
+            "text": "This section includes guiding principles, best practices, and issues to consider when developing\nprojects with international partners. It is organized into sections pertaining to the different\nstages of a project – planning, designing, implementation, and evaluation. Although the\norganization appears to be linear, please realize that the design process will be an iterative\nprocess where feedback at each step is used to make improvements in the design and design\nprocess.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 14,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p014",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 551,
+              "char_start": 77,
+              "chunk_index": 1,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03200204813108039
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p014-C-0000-21764bfada4930ef",
+            "text": "Chapter 2\nProject Development with International Partners\n\n2.1 Introduction",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 14,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p014",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 75,
+              "char_start": 0,
+              "chunk_index": 0,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03177805800756621
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p015-C-0000-2b7a4f1e7dea4116",
+            "text": "Project Development with International Partners\n\n2.2 The Planning Stage",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 15,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p015",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 71,
+              "char_start": 0,
+              "chunk_index": 0,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03021353930031804
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p014-C-0000-21764bfada4930ef | student_handbook_for_global_engagement | page 14]\nChapter 2\nProject Development with International Partners\n\n2.1 Introduction\n\n[student_handbook_for_global_engagement-p014-C-0001-fb63cbf007f37868 | student_handbook_for_global_engagement | page 14]\nThis section includes guiding principles, best practices, and issues to consider when developing\nprojects with international partners. It is organized into sections pertaining to the different\nstages of a project – planning, designing, implementation, and evaluation. Although the\norganization appears to be linear, please realize that the design process will be an iterative\nprocess where feedback at each step is used to make improvements in the design and design\nprocess.\n\n[student_handbook_for_global_engagement-p015-C-0000-2b7a4f1e7dea4116 | student_handbook_for_global_engagement | page 15]\nProject Development with International Partners\n\n2.2 The Planning Stage",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p014-C-0000-21764bfada4930ef",
+          "student_handbook_for_global_engagement-p014-C-0001-fb63cbf007f37868",
+          "student_handbook_for_global_engagement-p015-C-0000-2b7a4f1e7dea4116"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_ms": 3781.2801000000036,
+    "model": "gpt-4o-mini",
+    "method": "hybrid"
+  },
+  {
+    "query_id": "Q011",
+    "split": "dev",
+    "question": "Which groups or roles does the handbook list as possible project partners?",
+    "answerable": true,
+    "status": "answered",
+    "answer": "Possible project partners include NGOs, government entities, non-profits both in the U.S. and in the region of interest, and university connections [student_handbook_for_global_engagement-p015-C-0000-2b7a4f1e7dea4116].",
+    "citations": [
+      "student_handbook_for_global_engagement-p015-C-0000-2b7a4f1e7dea4116"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "project partners groups roles",
+        "filter": null,
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p015-C-0000-2b7a4f1e7dea4116",
+            "text": "Project Development with International Partners\n\n2.2 The Planning Stage",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 15,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p015",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 71,
+              "char_start": 0,
+              "chunk_index": 0,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03200204813108039
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p015-C-0003-5154837d726c82a4",
+            "text": "This could include a more\nspecific schedule outlining benchmarks to be achieved.\n\nEstablish partnerships.\n• When searching for partners, clearly define the purpose of the project and the input\nbeing sought from that particular partner. For a project to be successful, relationships\nbetween partners and designers must be balanced.\n• Suitable partners may include NGOs, government, non-profits both in the U.S. and in the\nregion of interest, university connections, and others.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 15,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p015",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 1468,
+              "char_start": 992,
+              "chunk_index": 3,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.031544957774465976
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p014-C-0000-21764bfada4930ef",
+            "text": "Chapter 2\nProject Development with International Partners\n\n2.1 Introduction",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 14,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p014",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 75,
+              "char_start": 0,
+              "chunk_index": 0,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03055037313432836
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p015-C-0000-2b7a4f1e7dea4116 | student_handbook_for_global_engagement | page 15]\nProject Development with International Partners\n\n2.2 The Planning Stage\n\n[student_handbook_for_global_engagement-p015-C-0003-5154837d726c82a4 | student_handbook_for_global_engagement | page 15]\nThis could include a more\nspecific schedule outlining benchmarks to be achieved.\n\nEstablish partnerships.\n• When searching for partners, clearly define the purpose of the project and the input\nbeing sought from that particular partner. For a project to be successful, relationships\nbetween partners and designers must be balanced.\n• Suitable partners may include NGOs, government, non-profits both in the U.S. and in the\nregion of interest, university connections, and others.\n\n[student_handbook_for_global_engagement-p014-C-0000-21764bfada4930ef | student_handbook_for_global_engagement | page 14]\nChapter 2\nProject Development with International Partners\n\n2.1 Introduction",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p015-C-0000-2b7a4f1e7dea4116",
+          "student_handbook_for_global_engagement-p015-C-0003-5154837d726c82a4",
+          "student_handbook_for_global_engagement-p014-C-0000-21764bfada4930ef"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3393.9699000002292,
+    "model": "gpt-4o-mini",
+    "method": "hybrid"
+  },
+  {
+    "query_id": "Q012",
+    "split": "dev",
+    "question": "Why should a resource and needs assessment be conducted collaboratively with the community rather than imposed on it?",
+    "answerable": true,
+    "status": "answered",
+    "answer": "A resource and needs assessment should be conducted collaboratively with the community because it provides insight into the community and the users who will interact with the intervention. This collaborative approach ensures that the assessment reflects the actual challenges and needs identified by the community, rather than imposing external views or solutions. Engaging the community fosters trust and promotes a sense of ownership over the process, which is essential for the success of any intervention [student_handbook_for_global_engagement-p015-C-0005-d60a45c3c50987bd].",
+    "citations": [
+      "student_handbook_for_global_engagement-p015-C-0005-d60a45c3c50987bd"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "resource and needs assessment collaborative community",
+        "filter": null,
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p015-C-0005-d60a45c3c50987bd",
+            "text": "Perform a resource and needs assessment.\nA resource and needs assessment involves going out into the community to talk to the future\nusers of your technology or program. This assessment provides insight into the community and\nthe users who will interact with the intervention. To be successful, it must be a collaborative\neffort with the community, not one that is imposed upon the community. Some questions to\nconsider include:\n• What challenges and needs does the community identify?",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 15,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p015",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 2359,
+              "char_start": 1874,
+              "chunk_index": 5,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03278688524590164
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p010-C-0007-135188ae3f817483",
+            "text": "Develop a documented partnership with local individuals or organizations in order to\npromote collaborative values at your institution.\n• While making contact with individuals or groups in a given community and engaging with\nthem in the research planning process may be difficult, it is your responsibility as a\nforeign researcher to give priority to the development of these relationships.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 10,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p010",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 2897,
+              "char_start": 2508,
+              "chunk_index": 7,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03125
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p012-C-0003-a6e0eb2dc99be2a4",
+            "text": "Involving the community in dissemination of findings\n• Findings from research or service projects should be shared with the local community so\nthat they can benefit directly from the work that the student has done. Students should\ndisseminate their products and results to study participants or their community as\napplicable as well as to relevant persons or organizations that may benefit from this\nknowledge and be able to apply it in the future.",
+            "source_id": "student_handbook_global_engagement_v1",
+            "source": "student_handbook_for_global_engagement",
+            "page": 12,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p012",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 1351,
+              "char_start": 903,
+              "chunk_index": 3,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1",
+              "source": "student_handbook_for_global_engagement",
+              "page": 12
+            },
+            "score": 0.016129032258064516
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p015-C-0005-d60a45c3c50987bd | student_handbook_for_global_engagement | page 15]\nPerform a resource and needs assessment.\nA resource and needs assessment involves going out into the community to talk to the future\nusers of your technology or program. This assessment provides insight into the community and\nthe users who will interact with the intervention. To be successful, it must be a collaborative\neffort with the community, not one that is imposed upon the community. Some questions to\nconsider include:\n• What challenges and needs does the community identify?\n\n[student_handbook_for_global_engagement-p010-C-0007-135188ae3f817483 | student_handbook_for_global_engagement | page 10]\nDevelop a documented partnership with local individuals or organizations in order to\npromote collaborative values at your institution.\n• While making contact with individuals or groups in a given community and engaging with\nthem in the research planning process may be difficult, it is your responsibility as a\nforeign researcher to give priority to the development of these relationships.\n\n[student_handbook_for_global_engagement-p012-C-0003-a6e0eb2dc99be2a4 | student_handbook_for_global_engagement | page 12]\nInvolving the community in dissemination of findings\n• Findings from research or service projects should be shared with the local community so\nthat they can benefit directly from the work that the student has done. Students should\ndisseminate their products and results to study participants or their community as\napplicable as well as to relevant persons or organizations that may benefit from this\nknowledge and be able to apply it in the future.",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p015-C-0005-d60a45c3c50987bd",
+          "student_handbook_for_global_engagement-p010-C-0007-135188ae3f817483",
+          "student_handbook_for_global_engagement-p012-C-0003-a6e0eb2dc99be2a4"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3204.4567999982974,
+    "model": "gpt-4o-mini",
+    "method": "hybrid"
+  },
+  {
+    "query_id": "Q013",
+    "split": "dev",
+    "question": "What should a problem statement specify, according to the Project Development chapter?",
+    "answerable": true,
+    "status": "answered",
+    "answer": "A problem statement should specify the situation that needs to be addressed, who and what is affected, quantify the problem, and address an issue related to the purpose of the program or project [student_handbook_for_global_engagement-p016-C-0000-321e5e515bce23c5].",
+    "citations": [
+      "student_handbook_for_global_engagement-p016-C-0000-321e5e515bce23c5"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "problem statement specifications Project Development chapter",
+        "filter": {
+          "section": "Chapter 2 - Project Development with International Partners"
+        },
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p016-C-0000-321e5e515bce23c5",
+            "text": "Project Development with International Partners\n\nDevelop a problem statement.\n• Use the information gained from the needs assessment to decide upon a focused\nintervention centered on a clearly defined problem. This can be done by creating a problem\nstatement. A problem statement states the situation that needs to be addressed, who and\nwhat is affected, quantifies the problem, and addresses an issue related to the purpose of\nthe program or project.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 16,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p016",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 451,
+              "char_start": 0,
+              "chunk_index": 0,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03278688524590164
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p016-C-0001-fdbffd9f0d4f1726",
+            "text": "Establish a clear motivation and set goals.\n• From the onset, use the problem statement to clearly delineate the motivation (reasons for\nembarking on the design project) and goals (what will be accomplished by the design\nproject) of the project. Note that the goals will likely be adapted and changed throughout\nthe course of the project.\n• Include objectives to be accomplished by the project as well as learning goals for individual\nstudents working on the project.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 16,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p016",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 920,
+              "char_start": 453,
+              "chunk_index": 1,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.031754032258064516
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p021-C-0002-1ad9f37344902c62",
+            "text": "Dym, Clive L. and Little, Patrick (2003) Engineering Design: A Project-Based Introduction.\nNew York: Wiley Press.\nContains tips on developing a problem statement and motivation taking user criteria into\nconsideration.\n\n19",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 21,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p021",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 947,
+              "char_start": 726,
+              "chunk_index": 2,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03149801587301587
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p016-C-0000-321e5e515bce23c5 | student_handbook_for_global_engagement | page 16]\nProject Development with International Partners\n\nDevelop a problem statement.\n• Use the information gained from the needs assessment to decide upon a focused\nintervention centered on a clearly defined problem. This can be done by creating a problem\nstatement. A problem statement states the situation that needs to be addressed, who and\nwhat is affected, quantifies the problem, and addresses an issue related to the purpose of\nthe program or project.\n\n[student_handbook_for_global_engagement-p016-C-0001-fdbffd9f0d4f1726 | student_handbook_for_global_engagement | page 16]\nEstablish a clear motivation and set goals.\n• From the onset, use the problem statement to clearly delineate the motivation (reasons for\nembarking on the design project) and goals (what will be accomplished by the design\nproject) of the project. Note that the goals will likely be adapted and changed throughout\nthe course of the project.\n• Include objectives to be accomplished by the project as well as learning goals for individual\nstudents working on the project.\n\n[student_handbook_for_global_engagement-p021-C-0002-1ad9f37344902c62 | student_handbook_for_global_engagement | page 21]\nDym, Clive L. and Little, Patrick (2003) Engineering Design: A Project-Based Introduction.\nNew York: Wiley Press.\nContains tips on developing a problem statement and motivation taking user criteria into\nconsideration.\n\n19",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p016-C-0000-321e5e515bce23c5",
+          "student_handbook_for_global_engagement-p016-C-0001-fdbffd9f0d4f1726",
+          "student_handbook_for_global_engagement-p021-C-0002-1ad9f37344902c62"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 2821.4767999998003,
+    "model": "gpt-4o-mini",
+    "method": "hybrid"
+  },
+  {
+    "query_id": "Q014",
+    "split": "dev",
+    "question": "When planning the design of a project, what should the team do if feedback from the host community indicates that the initial design needs changes?",
+    "answerable": true,
+    "status": "answered",
+    "answer": "If feedback from the host community indicates that the initial design needs changes, the team should engage in an iterative process to finalize the project specifications, incorporating the feedback received. This involves establishing a mechanism for real-time feedback at each step to evaluate the local community's response and making necessary adjustments based on that input [student_handbook_for_global_engagement-p017-C-0004-5e2b0c11f3a208e3][student_handbook_for_global_engagement-p014-C-0001-fb63cbf007f37868].",
+    "citations": [
+      "student_handbook_for_global_engagement-p017-C-0004-5e2b0c11f3a208e3",
+      "student_handbook_for_global_engagement-p014-C-0001-fb63cbf007f37868"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "project design changes host community feedback",
+        "filter": null,
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p017-C-0004-5e2b0c11f3a208e3",
+            "text": "Determine and finalize project specifications.\nThe finalization of the project design of the project should be an iterative process as\nfeedback is received from the host community. Some questions to consider include:\n• What are the “dimensions” of the project? If you are collecting data, how many people\nare you going to interview? What types of questions will you ask? What will the follow-up\nprotocol be? If you are designing a device, what are the specific things that it must do?",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 17,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p017",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 1970,
+              "char_start": 1486,
+              "chunk_index": 4,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03200204813108039
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p014-C-0001-fb63cbf007f37868",
+            "text": "This section includes guiding principles, best practices, and issues to consider when developing\nprojects with international partners. It is organized into sections pertaining to the different\nstages of a project – planning, designing, implementation, and evaluation. Although the\norganization appears to be linear, please realize that the design process will be an iterative\nprocess where feedback at each step is used to make improvements in the design and design\nprocess.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 14,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p014",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 551,
+              "char_start": 77,
+              "chunk_index": 1,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03177805800756621
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p017-C-0006-a1f5a1ee5b4dd7d6",
+            "text": "Establish a mechanism for real-time feedback at each step to evaluate the local community\nresponse to the project.\n• Identify the different groups in the local community from whom input is desired, such as\nbeneficiaries of the project, implementers of the intervention, team members,\nsupervisors, government officials, civil society organizations, and international\norganizations.\n• Identify how each group will be approached.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 17,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p017",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 2602,
+              "char_start": 2176,
+              "chunk_index": 6,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03177805800756621
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p017-C-0004-5e2b0c11f3a208e3 | student_handbook_for_global_engagement | page 17]\nDetermine and finalize project specifications.\nThe finalization of the project design of the project should be an iterative process as\nfeedback is received from the host community. Some questions to consider include:\n• What are the “dimensions” of the project? If you are collecting data, how many people\nare you going to interview? What types of questions will you ask? What will the follow-up\nprotocol be? If you are designing a device, what are the specific things that it must do?\n\n[student_handbook_for_global_engagement-p014-C-0001-fb63cbf007f37868 | student_handbook_for_global_engagement | page 14]\nThis section includes guiding principles, best practices, and issues to consider when developing\nprojects with international partners. It is organized into sections pertaining to the different\nstages of a project – planning, designing, implementation, and evaluation. Although the\norganization appears to be linear, please realize that the design process will be an iterative\nprocess where feedback at each step is used to make improvements in the design and design\nprocess.\n\n[student_handbook_for_global_engagement-p017-C-0006-a1f5a1ee5b4dd7d6 | student_handbook_for_global_engagement | page 17]\nEstablish a mechanism for real-time feedback at each step to evaluate the local community\nresponse to the project.\n• Identify the different groups in the local community from whom input is desired, such as\nbeneficiaries of the project, implementers of the intervention, team members,\nsupervisors, government officials, civil society organizations, and international\norganizations.\n• Identify how each group will be approached.",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p017-C-0004-5e2b0c11f3a208e3",
+          "student_handbook_for_global_engagement-p014-C-0001-fb63cbf007f37868",
+          "student_handbook_for_global_engagement-p017-C-0006-a1f5a1ee5b4dd7d6"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3493.1561000012152,
+    "model": "gpt-4o-mini",
+    "method": "hybrid"
+  },
+  {
+    "query_id": "Q020",
+    "split": "dev",
+    "question": "What makes collaboration between domestic and international partners genuinely collaborative throughout a project?",
+    "answerable": true,
+    "status": "answered",
+    "answer": "Genuine collaboration between domestic and international partners throughout a project is characterized by equal exchange, inclusion in all project phases, and early discussions on goals and expectations. Partners should engage in project conceptualization, development, implementation, evaluation, and dissemination of findings together. Additionally, establishing regular communication, feedback mechanisms, and understanding local professional cultures are essential for effective collaboration [student_handbook_for_global_engagement-p023-C-0000-fb48fc527667550e][student_handbook_for_global_engagement-p018-C-0000-233e424b6bdc687a].",
+    "citations": [
+      "student_handbook_for_global_engagement-p023-C-0000-fb48fc527667550e",
+      "student_handbook_for_global_engagement-p018-C-0000-233e424b6bdc687a"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "collaboration between domestic and international partners",
+        "filter": null,
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p023-C-0000-fb48fc527667550e",
+            "text": "Guidelines for Professional Behavior Abroad\n\n3.4 Collaboration\n\nWorking abroad necessitates close collaboration with international partners. Equal exchange is\nthe foundation of a successful project. Domestic and international partners should be included\nin all aspects of project conceptualization, development, implementation, evaluation, and\ndissemination of findings. Early in the process, all partners should discuss and agree upon their\nrespective goals, expectations, and compensation.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 23,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p023",
+              "section": "Chapter 3 - Guidelines for Professional Behavior Abroad",
+              "char_end": 491,
+              "char_start": 0,
+              "chunk_index": 0,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03278688524590164
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p014-C-0000-21764bfada4930ef",
+            "text": "Chapter 2\nProject Development with International Partners\n\n2.1 Introduction",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 14,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p014",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 75,
+              "char_start": 0,
+              "chunk_index": 0,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03125763125763126
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p018-C-0000-233e424b6bdc687a",
+            "text": "Project Development with International Partners\n\n2.4 The Implementation Stage\n\nEstablish contact with local partners.\n• Finalize plans with local partners (see Planning Stage above).\n• Delineate and delegate specific tasks to team members and make sure to have a system for\nregular feedback and adjustments in order to promote maximum efficiency.\n• Establish a schedule of regular updates and meetings among team members.\n• Be cognizant of the local professional culture.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 18,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p018",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 471,
+              "char_start": 0,
+              "chunk_index": 0,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.030621785881252923
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p023-C-0000-fb48fc527667550e | student_handbook_for_global_engagement | page 23]\nGuidelines for Professional Behavior Abroad\n\n3.4 Collaboration\n\nWorking abroad necessitates close collaboration with international partners. Equal exchange is\nthe foundation of a successful project. Domestic and international partners should be included\nin all aspects of project conceptualization, development, implementation, evaluation, and\ndissemination of findings. Early in the process, all partners should discuss and agree upon their\nrespective goals, expectations, and compensation.\n\n[student_handbook_for_global_engagement-p014-C-0000-21764bfada4930ef | student_handbook_for_global_engagement | page 14]\nChapter 2\nProject Development with International Partners\n\n2.1 Introduction\n\n[student_handbook_for_global_engagement-p018-C-0000-233e424b6bdc687a | student_handbook_for_global_engagement | page 18]\nProject Development with International Partners\n\n2.4 The Implementation Stage\n\nEstablish contact with local partners.\n• Finalize plans with local partners (see Planning Stage above).\n• Delineate and delegate specific tasks to team members and make sure to have a system for\nregular feedback and adjustments in order to promote maximum efficiency.\n• Establish a schedule of regular updates and meetings among team members.\n• Be cognizant of the local professional culture.",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p023-C-0000-fb48fc527667550e",
+          "student_handbook_for_global_engagement-p014-C-0000-21764bfada4930ef",
+          "student_handbook_for_global_engagement-p018-C-0000-233e424b6bdc687a"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_ms": 3574.7706000001926,
+    "model": "gpt-4o-mini",
+    "method": "hybrid"
+  },
+  {
+    "query_id": "Q001",
+    "split": "dev",
+    "question": "What five major areas does the handbook cover for students planning research or service abroad?",
+    "answerable": true,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "five major areas handbook covers for students planning research or service abroad",
+        "filter": null,
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p006-C-0001-51833ad781e9cfd1",
+            "text": "In this\ndocument, University of Michigan students who have experience doing research and service\nabroad have compiled recommendations and resources in five major areas: Ethics of Research\nAbroad, Project Development with International Partners, Guidelines for Professional Behavior\nAbroad, Global Citizenship and Advocacy, and Logistics of Research and Service Abroad.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 6,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p006",
+              "section": "Introduction",
+              "char_end": 799,
+              "char_start": 431,
+              "chunk_index": 1,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.031544957774465976
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p006-C-0006-036657adce75e8d7",
+            "text": "We hope that students who are planning a research or service trip abroad will consult this\ndocument early in the process of planning their trips in order to get an overview of the many\nissues important to a successful trip. We hope that this guide, specifically the Project\nDevelopment with International Partners and Guidelines for Professional Behavior Abroad\nchapters, can continue to be a resource during the implementation of your project and the\ndissemination of its results.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 6,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p006",
+              "section": "Introduction",
+              "char_end": 2464,
+              "char_start": 1983,
+              "chunk_index": 6,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.030679156908665108
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p033-C-0000-3d3bccc20c81d780",
+            "text": "Logistics of Research and Service Abroad",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 33,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p033",
+              "section": "Chapter 5 - Logistics of Research and Service Abroad",
+              "char_end": 40,
+              "char_start": 0,
+              "chunk_index": 0,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03057889822595705
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p006-C-0001-51833ad781e9cfd1 | student_handbook_for_global_engagement | page 6]\nIn this\ndocument, University of Michigan students who have experience doing research and service\nabroad have compiled recommendations and resources in five major areas: Ethics of Research\nAbroad, Project Development with International Partners, Guidelines for Professional Behavior\nAbroad, Global Citizenship and Advocacy, and Logistics of Research and Service Abroad.\n\n[student_handbook_for_global_engagement-p006-C-0006-036657adce75e8d7 | student_handbook_for_global_engagement | page 6]\nWe hope that students who are planning a research or service trip abroad will consult this\ndocument early in the process of planning their trips in order to get an overview of the many\nissues important to a successful trip. We hope that this guide, specifically the Project\nDevelopment with International Partners and Guidelines for Professional Behavior Abroad\nchapters, can continue to be a resource during the implementation of your project and the\ndissemination of its results.\n\n[student_handbook_for_global_engagement-p033-C-0000-3d3bccc20c81d780 | student_handbook_for_global_engagement | page 33]\nLogistics of Research and Service Abroad",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p006-C-0001-51833ad781e9cfd1",
+          "student_handbook_for_global_engagement-p006-C-0006-036657adce75e8d7",
+          "student_handbook_for_global_engagement-p033-C-0000-3d3bccc20c81d780"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_ms": 2952.64970000062,
+    "model": "gpt-4o-mini",
+    "method": "hybrid"
+  },
+  {
+    "query_id": "Q007",
+    "split": "dev",
+    "question": "What two broad types of sustainability does Chapter 1 describe?",
+    "answerable": true,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "types of sustainability Chapter 1",
+        "filter": null,
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p011-C-0005-0ad1979631ef47bf",
+            "text": "The two broad types of sustainability:\n• Fiscal sustainability of operations. At the start, the leader of a research or service\nproject may be particularly concerned with fiscal sustainability: Are there enough\nresources and funding to keep the project going?",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 11,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p011",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 1736,
+              "char_start": 1477,
+              "chunk_index": 5,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03252247488101534
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p014-C-0006-88e272f1d3fab81f",
+            "text": "Sustainability can be defined as:\n• Project sustainability – Involving the local people through co-creation, leveraging the local\nresources and infrastructure that already exist, developing a system for continuing data\ncollection in the area and having clearly defined short- and long-term goals.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 14,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p014",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 2326,
+              "char_start": 2030,
+              "chunk_index": 6,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.031099324975891997
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p011-C-0007-cddca98f1150ae03",
+            "text": "All research and service projects abroad should be designed and implemented with principles\nof sustainability in mind. Guidelines on how to implement sustainable student projects can\nbe found in Chapter 2, Project Development with International Partners.\n\n1.8 Institutional Review Board Approval",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 11,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p011",
+              "section": "Chapter 1 - Ethics of Research Abroad",
+              "char_end": 2299,
+              "char_start": 2004,
+              "chunk_index": 7,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.031009615384615385
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p011-C-0005-0ad1979631ef47bf | student_handbook_for_global_engagement | page 11]\nThe two broad types of sustainability:\n• Fiscal sustainability of operations. At the start, the leader of a research or service\nproject may be particularly concerned with fiscal sustainability: Are there enough\nresources and funding to keep the project going?\n\n[student_handbook_for_global_engagement-p014-C-0006-88e272f1d3fab81f | student_handbook_for_global_engagement | page 14]\nSustainability can be defined as:\n• Project sustainability – Involving the local people through co-creation, leveraging the local\nresources and infrastructure that already exist, developing a system for continuing data\ncollection in the area and having clearly defined short- and long-term goals.\n\n[student_handbook_for_global_engagement-p011-C-0007-cddca98f1150ae03 | student_handbook_for_global_engagement | page 11]\nAll research and service projects abroad should be designed and implemented with principles\nof sustainability in mind. Guidelines on how to implement sustainable student projects can\nbe found in Chapter 2, Project Development with International Partners.\n\n1.8 Institutional Review Board Approval",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p011-C-0005-0ad1979631ef47bf",
+          "student_handbook_for_global_engagement-p014-C-0006-88e272f1d3fab81f",
+          "student_handbook_for_global_engagement-p011-C-0007-cddca98f1150ae03"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_ms": 3438.845399999991,
+    "model": "gpt-4o-mini",
+    "method": "hybrid"
+  },
+  {
+    "query_id": "NA_DEV_01",
+    "split": "dev",
+    "question": "What minimum GPA must a University of Michigan student maintain to participate in an overseas research or service project?",
+    "answerable": false,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "minimum GPA for University of Michigan students overseas research or service project",
+        "filter": null,
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p006-C-0001-51833ad781e9cfd1",
+            "text": "In this\ndocument, University of Michigan students who have experience doing research and service\nabroad have compiled recommendations and resources in five major areas: Ethics of Research\nAbroad, Project Development with International Partners, Guidelines for Professional Behavior\nAbroad, Global Citizenship and Advocacy, and Logistics of Research and Service Abroad.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 6,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p006",
+              "section": "Introduction",
+              "char_end": 799,
+              "char_start": 431,
+              "chunk_index": 1,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03252247488101534
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p041-C-0000-0f82969c795a46aa",
+            "text": "Logistics of Research and Service Abroad\n\n5.9 Funding for the Experiences\n\nMany schools, centers, and institutes within the University of Michigan offer funding for\nresearch and/or internships abroad.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 41,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p041",
+              "section": "Chapter 5 - Logistics of Research and Service Abroad",
+              "char_end": 200,
+              "char_start": 0,
+              "chunk_index": 0,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.031099324975891997
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p018-C-0004-7490cdb957a8113c",
+            "text": "16 University of Michigan Center for Global Health",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 18,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p018",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 1668,
+              "char_start": 1618,
+              "chunk_index": 4,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.030330882352941176
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p006-C-0001-51833ad781e9cfd1 | student_handbook_for_global_engagement | page 6]\nIn this\ndocument, University of Michigan students who have experience doing research and service\nabroad have compiled recommendations and resources in five major areas: Ethics of Research\nAbroad, Project Development with International Partners, Guidelines for Professional Behavior\nAbroad, Global Citizenship and Advocacy, and Logistics of Research and Service Abroad.\n\n[student_handbook_for_global_engagement-p041-C-0000-0f82969c795a46aa | student_handbook_for_global_engagement | page 41]\nLogistics of Research and Service Abroad\n\n5.9 Funding for the Experiences\n\nMany schools, centers, and institutes within the University of Michigan offer funding for\nresearch and/or internships abroad.\n\n[student_handbook_for_global_engagement-p018-C-0004-7490cdb957a8113c | student_handbook_for_global_engagement | page 18]\n16 University of Michigan Center for Global Health",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p006-C-0001-51833ad781e9cfd1",
+          "student_handbook_for_global_engagement-p041-C-0000-0f82969c795a46aa",
+          "student_handbook_for_global_engagement-p018-C-0004-7490cdb957a8113c"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "minimum GPA for University of Michigan students overseas research or service project",
+        "filter": null,
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p006-C-0001-51833ad781e9cfd1",
+            "text": "In this\ndocument, University of Michigan students who have experience doing research and service\nabroad have compiled recommendations and resources in five major areas: Ethics of Research\nAbroad, Project Development with International Partners, Guidelines for Professional Behavior\nAbroad, Global Citizenship and Advocacy, and Logistics of Research and Service Abroad.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 6,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p006",
+              "section": "Introduction",
+              "char_end": 799,
+              "char_start": 431,
+              "chunk_index": 1,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03252247488101534
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p041-C-0000-0f82969c795a46aa",
+            "text": "Logistics of Research and Service Abroad\n\n5.9 Funding for the Experiences\n\nMany schools, centers, and institutes within the University of Michigan offer funding for\nresearch and/or internships abroad.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 41,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p041",
+              "section": "Chapter 5 - Logistics of Research and Service Abroad",
+              "char_end": 200,
+              "char_start": 0,
+              "chunk_index": 0,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.031099324975891997
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p018-C-0004-7490cdb957a8113c",
+            "text": "16 University of Michigan Center for Global Health",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 18,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p018",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 1668,
+              "char_start": 1618,
+              "chunk_index": 4,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.030330882352941176
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p006-C-0001-51833ad781e9cfd1 | student_handbook_for_global_engagement | page 6]\nIn this\ndocument, University of Michigan students who have experience doing research and service\nabroad have compiled recommendations and resources in five major areas: Ethics of Research\nAbroad, Project Development with International Partners, Guidelines for Professional Behavior\nAbroad, Global Citizenship and Advocacy, and Logistics of Research and Service Abroad.\n\n[student_handbook_for_global_engagement-p041-C-0000-0f82969c795a46aa | student_handbook_for_global_engagement | page 41]\nLogistics of Research and Service Abroad\n\n5.9 Funding for the Experiences\n\nMany schools, centers, and institutes within the University of Michigan offer funding for\nresearch and/or internships abroad.\n\n[student_handbook_for_global_engagement-p018-C-0004-7490cdb957a8113c | student_handbook_for_global_engagement | page 18]\n16 University of Michigan Center for Global Health",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p006-C-0001-51833ad781e9cfd1",
+          "student_handbook_for_global_engagement-p041-C-0000-0f82969c795a46aa",
+          "student_handbook_for_global_engagement-p018-C-0004-7490cdb957a8113c"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "minimum GPA for University of Michigan students overseas research or service project",
+        "filter": null,
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p006-C-0001-51833ad781e9cfd1",
+            "text": "In this\ndocument, University of Michigan students who have experience doing research and service\nabroad have compiled recommendations and resources in five major areas: Ethics of Research\nAbroad, Project Development with International Partners, Guidelines for Professional Behavior\nAbroad, Global Citizenship and Advocacy, and Logistics of Research and Service Abroad.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 6,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p006",
+              "section": "Introduction",
+              "char_end": 799,
+              "char_start": 431,
+              "chunk_index": 1,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.03252247488101534
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p041-C-0000-0f82969c795a46aa",
+            "text": "Logistics of Research and Service Abroad\n\n5.9 Funding for the Experiences\n\nMany schools, centers, and institutes within the University of Michigan offer funding for\nresearch and/or internships abroad.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 41,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p041",
+              "section": "Chapter 5 - Logistics of Research and Service Abroad",
+              "char_end": 200,
+              "char_start": 0,
+              "chunk_index": 0,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.031099324975891997
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p018-C-0004-7490cdb957a8113c",
+            "text": "16 University of Michigan Center for Global Health",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 18,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p018",
+              "section": "Chapter 2 - Project Development with International Partners",
+              "char_end": 1668,
+              "char_start": 1618,
+              "chunk_index": 4,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.030330882352941176
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p006-C-0001-51833ad781e9cfd1 | student_handbook_for_global_engagement | page 6]\nIn this\ndocument, University of Michigan students who have experience doing research and service\nabroad have compiled recommendations and resources in five major areas: Ethics of Research\nAbroad, Project Development with International Partners, Guidelines for Professional Behavior\nAbroad, Global Citizenship and Advocacy, and Logistics of Research and Service Abroad.\n\n[student_handbook_for_global_engagement-p041-C-0000-0f82969c795a46aa | student_handbook_for_global_engagement | page 41]\nLogistics of Research and Service Abroad\n\n5.9 Funding for the Experiences\n\nMany schools, centers, and institutes within the University of Michigan offer funding for\nresearch and/or internships abroad.\n\n[student_handbook_for_global_engagement-p018-C-0004-7490cdb957a8113c | student_handbook_for_global_engagement | page 18]\n16 University of Michigan Center for Global Health",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p006-C-0001-51833ad781e9cfd1",
+          "student_handbook_for_global_engagement-p041-C-0000-0f82969c795a46aa",
+          "student_handbook_for_global_engagement-p018-C-0004-7490cdb957a8113c"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_ms": 4271.12059999854,
+    "model": "gpt-4o-mini",
+    "method": "hybrid"
+  },
+  {
+    "query_id": "NA_DEV_02",
+    "split": "dev",
+    "question": "Which single airline does the handbook require every student to book for international travel?",
+    "answerable": false,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "single airline required for international travel",
+        "filter": null,
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p033-C-0001-748be813fbe9df0d",
+            "text": "Air travel arrangements\n• It is generally cheaper to buy earlier - 6 months early is advisable.\n• There are many useful websites that generate prices and options and allow comparisons to\nother sites (e.g., Kayak, Expedia, Priceline and Travelocity). It is useful to check the\nwebsites of individual airline companies as well (e.g., British Airways, Delta, Lufthansa).\n• Be expectant of changes in the flight schedule, especially if the destination is a less\nfrequently visited area.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 33,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p033",
+              "section": "Chapter 5 - Logistics of Research and Service Abroad",
+              "char_end": 524,
+              "char_start": 42,
+              "chunk_index": 1,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.0315136476426799
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p033-C-0005-7df6d0f9b239780e",
+            "text": "• Private companies provide international travel insurance as well, such as Travel Guard.\nInsurances can cover medical expenses, but can also be used for other unforeseen\ncircumstances from natural disaster evacuations to lost luggage and stolen items.\n• Note that reimbursement rather than being covered directly may be the policy of the\ninsurance company because of insurance policy regulations or because of local practices –\ncheck with the insurer before departure.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 33,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p033",
+              "section": "Chapter 5 - Logistics of Research and Service Abroad",
+              "char_end": 2295,
+              "char_start": 1826,
+              "chunk_index": 5,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.028790389395194696
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p033-C-0003-90747d256606bca4",
+            "text": "• Consider convenience, location, size, safety, and amenities of airports if multiple airports\nare possible for the host community.\n• Many countries have exit taxes when leaving; be prepared to pay (usually cash) upon\ndeparture. Check with your project host or local consulate for details and bring sufficient\ncash to pay upon departure – sometimes payment is due before you check-in for flight.",
+            "source_id": "student_handbook_global_engagement_v1",
+            "source": "student_handbook_for_global_engagement",
+            "page": 33,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p033",
+              "section": "Chapter 5 - Logistics of Research and Service Abroad",
+              "char_end": 1396,
+              "char_start": 1001,
+              "chunk_index": 3,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1",
+              "source": "student_handbook_for_global_engagement",
+              "page": 33
+            },
+            "score": 0.01639344262295082
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p033-C-0001-748be813fbe9df0d | student_handbook_for_global_engagement | page 33]\nAir travel arrangements\n• It is generally cheaper to buy earlier - 6 months early is advisable.\n• There are many useful websites that generate prices and options and allow comparisons to\nother sites (e.g., Kayak, Expedia, Priceline and Travelocity). It is useful to check the\nwebsites of individual airline companies as well (e.g., British Airways, Delta, Lufthansa).\n• Be expectant of changes in the flight schedule, especially if the destination is a less\nfrequently visited area.\n\n[student_handbook_for_global_engagement-p033-C-0005-7df6d0f9b239780e | student_handbook_for_global_engagement | page 33]\n• Private companies provide international travel insurance as well, such as Travel Guard.\nInsurances can cover medical expenses, but can also be used for other unforeseen\ncircumstances from natural disaster evacuations to lost luggage and stolen items.\n• Note that reimbursement rather than being covered directly may be the policy of the\ninsurance company because of insurance policy regulations or because of local practices –\ncheck with the insurer before departure.\n\n[student_handbook_for_global_engagement-p033-C-0003-90747d256606bca4 | student_handbook_for_global_engagement | page 33]\n• Consider convenience, location, size, safety, and amenities of airports if multiple airports\nare possible for the host community.\n• Many countries have exit taxes when leaving; be prepared to pay (usually cash) upon\ndeparture. Check with your project host or local consulate for details and bring sufficient\ncash to pay upon departure – sometimes payment is due before you check-in for flight.",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p033-C-0001-748be813fbe9df0d",
+          "student_handbook_for_global_engagement-p033-C-0005-7df6d0f9b239780e",
+          "student_handbook_for_global_engagement-p033-C-0003-90747d256606bca4"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "required airline for international travel",
+        "filter": null,
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p033-C-0001-748be813fbe9df0d",
+            "text": "Air travel arrangements\n• It is generally cheaper to buy earlier - 6 months early is advisable.\n• There are many useful websites that generate prices and options and allow comparisons to\nother sites (e.g., Kayak, Expedia, Priceline and Travelocity). It is useful to check the\nwebsites of individual airline companies as well (e.g., British Airways, Delta, Lufthansa).\n• Be expectant of changes in the flight schedule, especially if the destination is a less\nfrequently visited area.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 33,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p033",
+              "section": "Chapter 5 - Logistics of Research and Service Abroad",
+              "char_end": 524,
+              "char_start": 42,
+              "chunk_index": 1,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.0315136476426799
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p033-C-0005-7df6d0f9b239780e",
+            "text": "• Private companies provide international travel insurance as well, such as Travel Guard.\nInsurances can cover medical expenses, but can also be used for other unforeseen\ncircumstances from natural disaster evacuations to lost luggage and stolen items.\n• Note that reimbursement rather than being covered directly may be the policy of the\ninsurance company because of insurance policy regulations or because of local practices –\ncheck with the insurer before departure.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 33,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p033",
+              "section": "Chapter 5 - Logistics of Research and Service Abroad",
+              "char_end": 2295,
+              "char_start": 1826,
+              "chunk_index": 5,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.029411764705882353
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p033-C-0003-90747d256606bca4",
+            "text": "• Consider convenience, location, size, safety, and amenities of airports if multiple airports\nare possible for the host community.\n• Many countries have exit taxes when leaving; be prepared to pay (usually cash) upon\ndeparture. Check with your project host or local consulate for details and bring sufficient\ncash to pay upon departure – sometimes payment is due before you check-in for flight.",
+            "source_id": "student_handbook_global_engagement_v1",
+            "source": "student_handbook_for_global_engagement",
+            "page": 33,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p033",
+              "section": "Chapter 5 - Logistics of Research and Service Abroad",
+              "char_end": 1396,
+              "char_start": 1001,
+              "chunk_index": 3,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1",
+              "source": "student_handbook_for_global_engagement",
+              "page": 33
+            },
+            "score": 0.01639344262295082
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p033-C-0001-748be813fbe9df0d | student_handbook_for_global_engagement | page 33]\nAir travel arrangements\n• It is generally cheaper to buy earlier - 6 months early is advisable.\n• There are many useful websites that generate prices and options and allow comparisons to\nother sites (e.g., Kayak, Expedia, Priceline and Travelocity). It is useful to check the\nwebsites of individual airline companies as well (e.g., British Airways, Delta, Lufthansa).\n• Be expectant of changes in the flight schedule, especially if the destination is a less\nfrequently visited area.\n\n[student_handbook_for_global_engagement-p033-C-0005-7df6d0f9b239780e | student_handbook_for_global_engagement | page 33]\n• Private companies provide international travel insurance as well, such as Travel Guard.\nInsurances can cover medical expenses, but can also be used for other unforeseen\ncircumstances from natural disaster evacuations to lost luggage and stolen items.\n• Note that reimbursement rather than being covered directly may be the policy of the\ninsurance company because of insurance policy regulations or because of local practices –\ncheck with the insurer before departure.\n\n[student_handbook_for_global_engagement-p033-C-0003-90747d256606bca4 | student_handbook_for_global_engagement | page 33]\n• Consider convenience, location, size, safety, and amenities of airports if multiple airports\nare possible for the host community.\n• Many countries have exit taxes when leaving; be prepared to pay (usually cash) upon\ndeparture. Check with your project host or local consulate for details and bring sufficient\ncash to pay upon departure – sometimes payment is due before you check-in for flight.",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p033-C-0001-748be813fbe9df0d",
+          "student_handbook_for_global_engagement-p033-C-0005-7df6d0f9b239780e",
+          "student_handbook_for_global_engagement-p033-C-0003-90747d256606bca4"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "required airline for international travel",
+        "filter": null,
+        "results": [
+          {
+            "id": "student_handbook_for_global_engagement-p033-C-0001-748be813fbe9df0d",
+            "text": "Air travel arrangements\n• It is generally cheaper to buy earlier - 6 months early is advisable.\n• There are many useful websites that generate prices and options and allow comparisons to\nother sites (e.g., Kayak, Expedia, Priceline and Travelocity). It is useful to check the\nwebsites of individual airline companies as well (e.g., British Airways, Delta, Lufthansa).\n• Be expectant of changes in the flight schedule, especially if the destination is a less\nfrequently visited area.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 33,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p033",
+              "section": "Chapter 5 - Logistics of Research and Service Abroad",
+              "char_end": 524,
+              "char_start": 42,
+              "chunk_index": 1,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.0315136476426799
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p033-C-0005-7df6d0f9b239780e",
+            "text": "• Private companies provide international travel insurance as well, such as Travel Guard.\nInsurances can cover medical expenses, but can also be used for other unforeseen\ncircumstances from natural disaster evacuations to lost luggage and stolen items.\n• Note that reimbursement rather than being covered directly may be the policy of the\ninsurance company because of insurance policy regulations or because of local practices –\ncheck with the insurer before departure.",
+            "source_id": "student_handbook_for_global_engagement",
+            "source": "student_handbook_for_global_engagement",
+            "page": 33,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p033",
+              "section": "Chapter 5 - Logistics of Research and Service Abroad",
+              "char_end": 2295,
+              "char_start": 1826,
+              "chunk_index": 5,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1"
+            },
+            "score": 0.029411764705882353
+          },
+          {
+            "id": "student_handbook_for_global_engagement-p033-C-0003-90747d256606bca4",
+            "text": "• Consider convenience, location, size, safety, and amenities of airports if multiple airports\nare possible for the host community.\n• Many countries have exit taxes when leaving; be prepared to pay (usually cash) upon\ndeparture. Check with your project host or local consulate for details and bring sufficient\ncash to pay upon departure – sometimes payment is due before you check-in for flight.",
+            "source_id": "student_handbook_global_engagement_v1",
+            "source": "student_handbook_for_global_engagement",
+            "page": 33,
+            "metadata": {
+              "page_id": "student_handbook_for_global_engagement-p033",
+              "section": "Chapter 5 - Logistics of Research and Service Abroad",
+              "char_end": 1396,
+              "char_start": 1001,
+              "chunk_index": 3,
+              "section_source": "heading_in_source_page",
+              "chunking_strategy": "C",
+              "document_id": "student_handbook_global_engagement_v1",
+              "source": "student_handbook_for_global_engagement",
+              "page": 33
+            },
+            "score": 0.01639344262295082
+          }
+        ],
+        "context": "[student_handbook_for_global_engagement-p033-C-0001-748be813fbe9df0d | student_handbook_for_global_engagement | page 33]\nAir travel arrangements\n• It is generally cheaper to buy earlier - 6 months early is advisable.\n• There are many useful websites that generate prices and options and allow comparisons to\nother sites (e.g., Kayak, Expedia, Priceline and Travelocity). It is useful to check the\nwebsites of individual airline companies as well (e.g., British Airways, Delta, Lufthansa).\n• Be expectant of changes in the flight schedule, especially if the destination is a less\nfrequently visited area.\n\n[student_handbook_for_global_engagement-p033-C-0005-7df6d0f9b239780e | student_handbook_for_global_engagement | page 33]\n• Private companies provide international travel insurance as well, such as Travel Guard.\nInsurances can cover medical expenses, but can also be used for other unforeseen\ncircumstances from natural disaster evacuations to lost luggage and stolen items.\n• Note that reimbursement rather than being covered directly may be the policy of the\ninsurance company because of insurance policy regulations or because of local practices –\ncheck with the insurer before departure.\n\n[student_handbook_for_global_engagement-p033-C-0003-90747d256606bca4 | student_handbook_for_global_engagement | page 33]\n• Consider convenience, location, size, safety, and amenities of airports if multiple airports\nare possible for the host community.\n• Many countries have exit taxes when leaving; be prepared to pay (usually cash) upon\ndeparture. Check with your project host or local consulate for details and bring sufficient\ncash to pay upon departure – sometimes payment is due before you check-in for flight.",
+        "context_ids": [
+          "student_handbook_for_global_engagement-p033-C-0001-748be813fbe9df0d",
+          "student_handbook_for_global_engagement-p033-C-0005-7df6d0f9b239780e",
+          "student_handbook_for_global_engagement-p033-C-0003-90747d256606bca4"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "elapsed_ms": 3986.4481999993586,
+    "model": "gpt-4o-mini",
+    "method": "hybrid"
+  }
+]

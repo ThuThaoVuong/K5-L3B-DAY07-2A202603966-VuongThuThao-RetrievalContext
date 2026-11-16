@@ -1,0 +1,704 @@
+[
+  {
+    "query_id": "Q015",
+    "split": "test",
+    "question": "Which categories should students consider when preparing a personal budget for an overseas project?",
+    "method": "hybrid",
+    "strategy": "C",
+    "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "embedding_dimensions": 384,
+    "top_k": 5,
+    "filter": null,
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 17,
+        "evidence": "Categories to include in a personal budget include: − Living expenses (e.g., lodging, food, phone, in-country transit) − Health (e.g., health insurance, vaccinations, mosquito net, medications) − Travel (e.g., airfare, visa/passport, travel insurance, airport transit) − Pre-departure (e.g., gifts for hosts) − Other (e.g., leisure items and activities)"
+      }
+    ],
+    "results": [
+      {
+        "id": "student_handbook_for_global_engagement-p017-C-0003-7e46e6033fd0a970",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 17,
+        "text": "from. While not all projects will\nhave an extensive budget, the following is a list of relevant categories to include in a\nproject budget:\n− Equipment\n− Office supplies and resources (e.g., electricity, materials)\n− Personnel (e.g., translator)\n− Office space",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p017",
+          "section": "Chapter 2 - Project Development with International Partners",
+          "char_end": 1484,
+          "char_start": 1225,
+          "chunk_index": 3,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.03200204813108039,
+        "method": "hybrid_rrf",
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "student_handbook_for_global_engagement-p017-C-0002-9df6e6ee3157c4f4",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 17,
+        "text": "Categories to include in a personal budget include:\n− Living expenses (e.g., lodging, food, phone, in-country transit)\n− Health (e.g., health insurance, vaccinations, mosquito net, medications)\n− Travel (e.g., airfare, visa/passport, travel insurance, airport transit)\n− Pre-departure (e.g., gifts for hosts)\n− Other (e.g., leisure items and activities)\n• Talk to your co-investigators about the project budget to determine what it covers, over\nwhat time period, and from where the money is coming",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p017",
+          "section": "Chapter 2 - Project Development with International Partners",
+          "char_end": 1224,
+          "char_start": 727,
+          "chunk_index": 2,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.0315136476426799,
+        "method": "hybrid_rrf",
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "student_handbook_for_global_engagement-p017-C-0001-541bc332632c543f",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 17,
+        "text": "Develop a timeline with clearly defined goals at each step.\n• Include both a timeline for the planning of project logistics as well as a long-term plan.\n\nDevelop a budget.\n• Consider both the project budget and your own personal budget and expenses.\n• Carefully plan out your personal budget being sure to overestimate your expenses.",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p017",
+          "section": "Chapter 2 - Project Development with International Partners",
+          "char_end": 726,
+          "char_start": 393,
+          "chunk_index": 1,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.029551337359792925,
+        "method": "hybrid_rrf",
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "student_handbook_for_global_engagement-p006-C-0000-da67fc1c20871c88",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 6,
+        "text": "Student Handbook for Global Engagement\n\nIntroduction\n\nTraveling abroad for research or service is an exciting undertaking, but it can also be very\nchallenging; there is so much to think about! Designing an effective, relevant and ethical project,\nworking effectively with international partners, and disseminating a useful product are just a few\nof the important issues that students will encounter as they plan their work abroad.",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p006",
+          "section": "Introduction",
+          "char_end": 430,
+          "char_start": 0,
+          "chunk_index": 0,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.027799227799227798,
+        "method": "hybrid_rrf",
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "student_handbook_for_global_engagement-p006-C-0003-a4aca28ac8f7548b",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 6,
+        "text": "In Ethics of Research Abroad, we introduce the primary ethical considerations that students\nshould address when planning and implementing their projects. In Project Development with\nInternational Partners, we discuss the five major phases of a project — planning, designing\nimplementation, dissemination, and evaluation — and offer concrete suggestions on how to\nproceed through each step.",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p006",
+          "section": "Introduction",
+          "char_end": 1400,
+          "char_start": 1011,
+          "chunk_index": 3,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.027222222222222224,
+        "method": "hybrid_rrf",
+        "rank": 5,
+        "hit": false
+      }
+    ],
+    "context": "[student_handbook_for_global_engagement-p017-C-0003-7e46e6033fd0a970 | student_handbook_for_global_engagement | page 17]\nfrom. While not all projects will\nhave an extensive budget, the following is a list of relevant categories to include in a\nproject budget:\n− Equipment\n− Office supplies and resources (e.g., electricity, materials)\n− Personnel (e.g., translator)\n− Office space\n\n[student_handbook_for_global_engagement-p017-C-0002-9df6e6ee3157c4f4 | student_handbook_for_global_engagement | page 17]\nCategories to include in a personal budget include:\n− Living expenses (e.g., lodging, food, phone, in-country transit)\n− Health (e.g., health insurance, vaccinations, mosquito net, medications)\n− Travel (e.g., airfare, visa/passport, travel insurance, airport transit)\n− Pre-departure (e.g., gifts for hosts)\n− Other (e.g., leisure items and activities)\n• Talk to your co-investigators about the project budget to determine what it covers, over\nwhat time period, and from where the money is coming\n\n[student_handbook_for_global_engagement-p017-C-0001-541bc332632c543f | student_handbook_for_global_engagement | page 17]\nDevelop a timeline with clearly defined goals at each step.\n• Include both a timeline for the planning of project logistics as well as a long-term plan.\n\nDevelop a budget.\n• Consider both the project budget and your own personal budget and expenses.\n• Carefully plan out your personal budget being sure to overestimate your expenses.\n\n[student_handbook_for_global_engagement-p006-C-0000-da67fc1c20871c88 | student_handbook_for_global_engagement | page 6]\nStudent Handbook for Global Engagement\n\nIntroduction\n\nTraveling abroad for research or service is an exciting undertaking, but it can also be very\nchallenging; there is so much to think about! Designing an effective, relevant and ethical project,\nworking effectively with international partners, and disseminating a useful product are just a few\nof the important issues that students will encounter as they plan their work abroad.",
+    "context_ids": [
+      "student_handbook_for_global_engagement-p017-C-0003-7e46e6033fd0a970",
+      "student_handbook_for_global_engagement-p017-C-0002-9df6e6ee3157c4f4",
+      "student_handbook_for_global_engagement-p017-C-0001-541bc332632c543f",
+      "student_handbook_for_global_engagement-p006-C-0000-da67fc1c20871c88"
+    ],
+    "hit1": false,
+    "evidence_hit3": true,
+    "context_evidence": true,
+    "context_chars": 2008,
+    "elapsed_ms": 126.8579999996291
+  },
+  {
+    "query_id": "Q016",
+    "split": "test",
+    "question": "During project implementation, how should responsibilities and communication among team members be organized?",
+    "method": "hybrid",
+    "strategy": "C",
+    "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "embedding_dimensions": 384,
+    "top_k": 5,
+    "filter": {
+      "section": "Chapter 2 - Project Development with International Partners"
+    },
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 18,
+        "evidence": "Delineate and delegate specific tasks to team members and make sure to have a system for regular feedback and adjustments in order to promote maximum efficiency. • Establish a schedule of regular updates and meetings among team members."
+      }
+    ],
+    "results": [
+      {
+        "id": "student_handbook_for_global_engagement-p018-C-0000-233e424b6bdc687a",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 18,
+        "text": "Project Development with International Partners\n\n2.4 The Implementation Stage\n\nEstablish contact with local partners.\n• Finalize plans with local partners (see Planning Stage above).\n• Delineate and delegate specific tasks to team members and make sure to have a system for\nregular feedback and adjustments in order to promote maximum efficiency.\n• Establish a schedule of regular updates and meetings among team members.\n• Be cognizant of the local professional culture.",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p018",
+          "section": "Chapter 2 - Project Development with International Partners",
+          "char_end": 471,
+          "char_start": 0,
+          "chunk_index": 0,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.03278688524590164,
+        "method": "hybrid_rrf",
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "student_handbook_for_global_engagement-p014-C-0001-fb63cbf007f37868",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 14,
+        "text": "This section includes guiding principles, best practices, and issues to consider when developing\nprojects with international partners. It is organized into sections pertaining to the different\nstages of a project – planning, designing, implementation, and evaluation. Although the\norganization appears to be linear, please realize that the design process will be an iterative\nprocess where feedback at each step is used to make improvements in the design and design\nprocess.",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p014",
+          "section": "Chapter 2 - Project Development with International Partners",
+          "char_end": 551,
+          "char_start": 77,
+          "chunk_index": 1,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.03128054740957967,
+        "method": "hybrid_rrf",
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "student_handbook_for_global_engagement-p020-C-0000-304df92cd351639d",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 20,
+        "text": "Project Development with International Partners\n\n2.6 The Evaluation Stage\n\nAn important aspect of any project is evaluating if, and to what extent, the project’s goals are\nbeing met. Evaluation should take place at each stage of the project and metrics for evaluation\nshould be outlined during the planning stages. Evaluation is a key part of the iterative project\ndesign and implementation process and helps to clearly outline what is going well in the\nproject and where improvements are needed.",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p020",
+          "section": "Chapter 2 - Project Development with International Partners",
+          "char_end": 496,
+          "char_start": 0,
+          "chunk_index": 0,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.03057889822595705,
+        "method": "hybrid_rrf",
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "student_handbook_for_global_engagement-p017-C-0006-a1f5a1ee5b4dd7d6",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 17,
+        "text": "Establish a mechanism for real-time feedback at each step to evaluate the local community\nresponse to the project.\n• Identify the different groups in the local community from whom input is desired, such as\nbeneficiaries of the project, implementers of the intervention, team members,\nsupervisors, government officials, civil society organizations, and international\norganizations.\n• Identify how each group will be approached.",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p017",
+          "section": "Chapter 2 - Project Development with International Partners",
+          "char_end": 2602,
+          "char_start": 2176,
+          "chunk_index": 6,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.030536130536130537,
+        "method": "hybrid_rrf",
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "student_handbook_for_global_engagement-p017-C-0004-5e2b0c11f3a208e3",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 17,
+        "text": "Determine and finalize project specifications.\nThe finalization of the project design of the project should be an iterative process as\nfeedback is received from the host community. Some questions to consider include:\n• What are the “dimensions” of the project? If you are collecting data, how many people\nare you going to interview? What types of questions will you ask? What will the follow-up\nprotocol be? If you are designing a device, what are the specific things that it must do?",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p017",
+          "section": "Chapter 2 - Project Development with International Partners",
+          "char_end": 1970,
+          "char_start": 1486,
+          "chunk_index": 4,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.029910714285714284,
+        "method": "hybrid_rrf",
+        "rank": 5,
+        "hit": false
+      }
+    ],
+    "context": "[student_handbook_for_global_engagement-p018-C-0000-233e424b6bdc687a | student_handbook_for_global_engagement | page 18]\nProject Development with International Partners\n\n2.4 The Implementation Stage\n\nEstablish contact with local partners.\n• Finalize plans with local partners (see Planning Stage above).\n• Delineate and delegate specific tasks to team members and make sure to have a system for\nregular feedback and adjustments in order to promote maximum efficiency.\n• Establish a schedule of regular updates and meetings among team members.\n• Be cognizant of the local professional culture.\n\n[student_handbook_for_global_engagement-p014-C-0001-fb63cbf007f37868 | student_handbook_for_global_engagement | page 14]\nThis section includes guiding principles, best practices, and issues to consider when developing\nprojects with international partners. It is organized into sections pertaining to the different\nstages of a project – planning, designing, implementation, and evaluation. Although the\norganization appears to be linear, please realize that the design process will be an iterative\nprocess where feedback at each step is used to make improvements in the design and design\nprocess.\n\n[student_handbook_for_global_engagement-p020-C-0000-304df92cd351639d | student_handbook_for_global_engagement | page 20]\nProject Development with International Partners\n\n2.6 The Evaluation Stage\n\nAn important aspect of any project is evaluating if, and to what extent, the project’s goals are\nbeing met. Evaluation should take place at each stage of the project and metrics for evaluation\nshould be outlined during the planning stages. Evaluation is a key part of the iterative project\ndesign and implementation process and helps to clearly outline what is going well in the\nproject and where improvements are needed.\n\n[student_handbook_for_global_engagement-p017-C-0006-a1f5a1ee5b4dd7d6 | student_handbook_for_global_engagement | page 17]\nEstablish a mechanism for real-time feedback at each step to evaluate the local community\nresponse to the project.\n• Identify the different groups in the local community from whom input is desired, such as\nbeneficiaries of the project, implementers of the intervention, team members,\nsupervisors, government officials, civil society organizations, and international\norganizations.\n• Identify how each group will be approached.",
+    "context_ids": [
+      "student_handbook_for_global_engagement-p018-C-0000-233e424b6bdc687a",
+      "student_handbook_for_global_engagement-p014-C-0001-fb63cbf007f37868",
+      "student_handbook_for_global_engagement-p020-C-0000-304df92cd351639d",
+      "student_handbook_for_global_engagement-p017-C-0006-a1f5a1ee5b4dd7d6"
+    ],
+    "hit1": true,
+    "evidence_hit3": true,
+    "context_evidence": true,
+    "context_chars": 2357,
+    "elapsed_ms": 123.4160999993037
+  },
+  {
+    "query_id": "Q017",
+    "split": "test",
+    "question": "When deciding who owns ideas, documents, or technologies produced with international partners, whose input should be part of the discussion and what should guide the decision?",
+    "method": "hybrid",
+    "strategy": "C",
+    "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "embedding_dimensions": 384,
+    "top_k": 5,
+    "filter": null,
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 19,
+        "evidence": "All parties (including domestic advisors and international collaborators) must be a part of the discussion and exploitive behavior must be avoided."
+      },
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 19,
+        "evidence": "The influence of local knowledge and local products should guide the decision in determining the ownership of intellectual property."
+      }
+    ],
+    "results": [
+      {
+        "id": "student_handbook_for_global_engagement-p019-C-0002-57c73ee00360adb7",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 19,
+        "text": "Discuss intellectual property issues.\nProducing with international partners generates the issue of ownership - who owns the ideas,\ndocuments or technologies that are developed? A spectrum of approaches exists, ranging from\nobtaining a patent to disseminating findings in an open source manner.\n• All parties (including domestic advisors and international collaborators) must be a part of\nthe discussion and exploitive behavior must be avoided.",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p019",
+          "section": "Chapter 2 - Project Development with International Partners",
+          "char_end": 1232,
+          "char_start": 789,
+          "chunk_index": 2,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.03278688524590164,
+        "method": "hybrid_rrf",
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "student_handbook_for_global_engagement-p015-C-0003-5154837d726c82a4",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 15,
+        "text": "This could include a more\nspecific schedule outlining benchmarks to be achieved.\n\nEstablish partnerships.\n• When searching for partners, clearly define the purpose of the project and the input\nbeing sought from that particular partner. For a project to be successful, relationships\nbetween partners and designers must be balanced.\n• Suitable partners may include NGOs, government, non-profits both in the U.S. and in the\nregion of interest, university connections, and others.",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p015",
+          "section": "Chapter 2 - Project Development with International Partners",
+          "char_end": 1468,
+          "char_start": 992,
+          "chunk_index": 3,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.030536130536130537,
+        "method": "hybrid_rrf",
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "student_handbook_for_global_engagement-p020-C-0000-304df92cd351639d",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 20,
+        "text": "Project Development with International Partners\n\n2.6 The Evaluation Stage\n\nAn important aspect of any project is evaluating if, and to what extent, the project’s goals are\nbeing met. Evaluation should take place at each stage of the project and metrics for evaluation\nshould be outlined during the planning stages. Evaluation is a key part of the iterative project\ndesign and implementation process and helps to clearly outline what is going well in the\nproject and where improvements are needed.",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p020",
+          "section": "Chapter 2 - Project Development with International Partners",
+          "char_end": 496,
+          "char_start": 0,
+          "chunk_index": 0,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.029206349206349208,
+        "method": "hybrid_rrf",
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "student_handbook_for_global_engagement-p008-C-0004-d0707fcd75e2f818",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 8,
+        "text": "Have a clear plan of the project and its scope from the outset.\n• Share the plan with local collaborators. They should have a clear understanding of exactly\nwhat will be done during the course of the project, specifically, what questions will be\nasked or what services will be provided. Local collaborators will not be able to collaborate\neffectively on the project if they do not have a clear understanding of its purpose.",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p008",
+          "section": "Chapter 1 - Ethics of Research Abroad",
+          "char_end": 2105,
+          "char_start": 1682,
+          "chunk_index": 4,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.028404512489927477,
+        "method": "hybrid_rrf",
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "student_handbook_for_global_engagement-p019-C-0004-7733c1efc4e42f14",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 19,
+        "text": "Establish clear and ethical scholarship and authorship policies.\nDue credit should be given to those who took part in production of project deliverables,\nwhether a research paper, a device, or a policy.\n• Take into account the time and effort that each party contributed to the end product, as\nwell as what facilities and resources were used throughout the process.\n• For further details on this subject, see Chapter 3, Guidelines for Professional Behavior\nAbroad.",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p019",
+          "section": "Chapter 2 - Project Development with International Partners",
+          "char_end": 2095,
+          "char_start": 1631,
+          "chunk_index": 4,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.02797339593114241,
+        "method": "hybrid_rrf",
+        "rank": 5,
+        "hit": false
+      }
+    ],
+    "context": "[student_handbook_for_global_engagement-p019-C-0002-57c73ee00360adb7 | student_handbook_for_global_engagement | page 19]\nDiscuss intellectual property issues.\nProducing with international partners generates the issue of ownership - who owns the ideas,\ndocuments or technologies that are developed? A spectrum of approaches exists, ranging from\nobtaining a patent to disseminating findings in an open source manner.\n• All parties (including domestic advisors and international collaborators) must be a part of\nthe discussion and exploitive behavior must be avoided.\n\n[student_handbook_for_global_engagement-p015-C-0003-5154837d726c82a4 | student_handbook_for_global_engagement | page 15]\nThis could include a more\nspecific schedule outlining benchmarks to be achieved.\n\nEstablish partnerships.\n• When searching for partners, clearly define the purpose of the project and the input\nbeing sought from that particular partner. For a project to be successful, relationships\nbetween partners and designers must be balanced.\n• Suitable partners may include NGOs, government, non-profits both in the U.S. and in the\nregion of interest, university connections, and others.\n\n[student_handbook_for_global_engagement-p020-C-0000-304df92cd351639d | student_handbook_for_global_engagement | page 20]\nProject Development with International Partners\n\n2.6 The Evaluation Stage\n\nAn important aspect of any project is evaluating if, and to what extent, the project’s goals are\nbeing met. Evaluation should take place at each stage of the project and metrics for evaluation\nshould be outlined during the planning stages. Evaluation is a key part of the iterative project\ndesign and implementation process and helps to clearly outline what is going well in the\nproject and where improvements are needed.\n\n[student_handbook_for_global_engagement-p008-C-0004-d0707fcd75e2f818 | student_handbook_for_global_engagement | page 8]\nHave a clear plan of the project and its scope from the outset.\n• Share the plan with local collaborators. They should have a clear understanding of exactly\nwhat will be done during the course of the project, specifically, what questions will be\nasked or what services will be provided. Local collaborators will not be able to collaborate\neffectively on the project if they do not have a clear understanding of its purpose.",
+    "context_ids": [
+      "student_handbook_for_global_engagement-p019-C-0002-57c73ee00360adb7",
+      "student_handbook_for_global_engagement-p015-C-0003-5154837d726c82a4",
+      "student_handbook_for_global_engagement-p020-C-0000-304df92cd351639d",
+      "student_handbook_for_global_engagement-p008-C-0004-d0707fcd75e2f818"
+    ],
+    "hit1": false,
+    "evidence_hit3": false,
+    "context_evidence": false,
+    "context_chars": 2327,
+    "elapsed_ms": 151.07800000077987
+  },
+  {
+    "query_id": "Q018",
+    "split": "test",
+    "question": "At what stages should project evaluation take place, and when should evaluation metrics be outlined?",
+    "method": "hybrid",
+    "strategy": "C",
+    "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "embedding_dimensions": 384,
+    "top_k": 5,
+    "filter": {
+      "section": "Chapter 2 - Project Development with International Partners"
+    },
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 20,
+        "evidence": "Evaluation should take place at each stage of the project and metrics for evaluation should be outlined during the planning stages."
+      }
+    ],
+    "results": [
+      {
+        "id": "student_handbook_for_global_engagement-p020-C-0000-304df92cd351639d",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 20,
+        "text": "Project Development with International Partners\n\n2.6 The Evaluation Stage\n\nAn important aspect of any project is evaluating if, and to what extent, the project’s goals are\nbeing met. Evaluation should take place at each stage of the project and metrics for evaluation\nshould be outlined during the planning stages. Evaluation is a key part of the iterative project\ndesign and implementation process and helps to clearly outline what is going well in the\nproject and where improvements are needed.",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p020",
+          "section": "Chapter 2 - Project Development with International Partners",
+          "char_end": 496,
+          "char_start": 0,
+          "chunk_index": 0,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.03278688524590164,
+        "method": "hybrid_rrf",
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "student_handbook_for_global_engagement-p014-C-0001-fb63cbf007f37868",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 14,
+        "text": "This section includes guiding principles, best practices, and issues to consider when developing\nprojects with international partners. It is organized into sections pertaining to the different\nstages of a project – planning, designing, implementation, and evaluation. Although the\norganization appears to be linear, please realize that the design process will be an iterative\nprocess where feedback at each step is used to make improvements in the design and design\nprocess.",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p014",
+          "section": "Chapter 2 - Project Development with International Partners",
+          "char_end": 551,
+          "char_start": 77,
+          "chunk_index": 1,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.031746031746031744,
+        "method": "hybrid_rrf",
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "student_handbook_for_global_engagement-p017-C-0004-5e2b0c11f3a208e3",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 17,
+        "text": "Determine and finalize project specifications.\nThe finalization of the project design of the project should be an iterative process as\nfeedback is received from the host community. Some questions to consider include:\n• What are the “dimensions” of the project? If you are collecting data, how many people\nare you going to interview? What types of questions will you ask? What will the follow-up\nprotocol be? If you are designing a device, what are the specific things that it must do?",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p017",
+          "section": "Chapter 2 - Project Development with International Partners",
+          "char_end": 1970,
+          "char_start": 1486,
+          "chunk_index": 4,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.031054405392392875,
+        "method": "hybrid_rrf",
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "student_handbook_for_global_engagement-p020-C-0001-42ca58a1fe863156",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 20,
+        "text": "The evaluators, who are often also the\nimplementers, should try to be as objective as possible and consider a comprehensive set of\nmetrics. One method by which to do this is to require project evaluators to demonstrate that\nthe project is not having detrimental effects or causing harm. There are several perspectives\nfrom which to evaluate a project, all of which should be considered for any project, regardless\nof its purpose.",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p020",
+          "section": "Chapter 2 - Project Development with International Partners",
+          "char_end": 926,
+          "char_start": 497,
+          "chunk_index": 1,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.031009615384615385,
+        "method": "hybrid_rrf",
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "student_handbook_for_global_engagement-p017-C-0005-0c4da09ccfb21c07",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 17,
+        "text": "How big will it be? What power will be required?\n• What will be the role of each team member, collaborator, and/or co-investigator?\n• What are the metrics of success? How will you evaluate these metrics?",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p017",
+          "section": "Chapter 2 - Project Development with International Partners",
+          "char_end": 2174,
+          "char_start": 1971,
+          "chunk_index": 5,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.030834914611005692,
+        "method": "hybrid_rrf",
+        "rank": 5,
+        "hit": false
+      }
+    ],
+    "context": "[student_handbook_for_global_engagement-p020-C-0000-304df92cd351639d | student_handbook_for_global_engagement | page 20]\nProject Development with International Partners\n\n2.6 The Evaluation Stage\n\nAn important aspect of any project is evaluating if, and to what extent, the project’s goals are\nbeing met. Evaluation should take place at each stage of the project and metrics for evaluation\nshould be outlined during the planning stages. Evaluation is a key part of the iterative project\ndesign and implementation process and helps to clearly outline what is going well in the\nproject and where improvements are needed.\n\n[student_handbook_for_global_engagement-p014-C-0001-fb63cbf007f37868 | student_handbook_for_global_engagement | page 14]\nThis section includes guiding principles, best practices, and issues to consider when developing\nprojects with international partners. It is organized into sections pertaining to the different\nstages of a project – planning, designing, implementation, and evaluation. Although the\norganization appears to be linear, please realize that the design process will be an iterative\nprocess where feedback at each step is used to make improvements in the design and design\nprocess.\n\n[student_handbook_for_global_engagement-p017-C-0004-5e2b0c11f3a208e3 | student_handbook_for_global_engagement | page 17]\nDetermine and finalize project specifications.\nThe finalization of the project design of the project should be an iterative process as\nfeedback is received from the host community. Some questions to consider include:\n• What are the “dimensions” of the project? If you are collecting data, how many people\nare you going to interview? What types of questions will you ask? What will the follow-up\nprotocol be? If you are designing a device, what are the specific things that it must do?\n\n[student_handbook_for_global_engagement-p020-C-0001-42ca58a1fe863156 | student_handbook_for_global_engagement | page 20]\nThe evaluators, who are often also the\nimplementers, should try to be as objective as possible and consider a comprehensive set of\nmetrics. One method by which to do this is to require project evaluators to demonstrate that\nthe project is not having detrimental effects or causing harm. There are several perspectives\nfrom which to evaluate a project, all of which should be considered for any project, regardless\nof its purpose.",
+    "context_ids": [
+      "student_handbook_for_global_engagement-p020-C-0000-304df92cd351639d",
+      "student_handbook_for_global_engagement-p014-C-0001-fb63cbf007f37868",
+      "student_handbook_for_global_engagement-p017-C-0004-5e2b0c11f3a208e3",
+      "student_handbook_for_global_engagement-p020-C-0001-42ca58a1fe863156"
+    ],
+    "hit1": true,
+    "evidence_hit3": true,
+    "context_evidence": true,
+    "context_chars": 2373,
+    "elapsed_ms": 112.55779999919469
+  },
+  {
+    "query_id": "Q019",
+    "split": "test",
+    "question": "If local interpretations of confidentiality differ from a student's own expectations, what standard should the student try to maintain, and what should they avoid publishing without appropriate consent?",
+    "method": "hybrid",
+    "strategy": "C",
+    "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "embedding_dimensions": 384,
+    "top_k": 5,
+    "filter": {
+      "section": "Chapter 3 - Guidelines for Professional Behavior Abroad"
+    },
+    "gold": [
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 22,
+        "evidence": "Because there are different interpretations, always strive to maintain and display the highest standard possible when considering confidentiality abroad."
+      },
+      {
+        "source_id": "student_handbook_for_global_engagement",
+        "page": 22,
+        "evidence": "Refrain from posting and publishing confidential or identifying images, information, and quotations in public domains, including digital and/or social media (i.e. Facebook, MySpace, Twitter, blogs, etc.), without appropriate informed consent."
+      }
+    ],
+    "results": [
+      {
+        "id": "student_handbook_for_global_engagement-p022-C-0003-e2535c8f0167e0c7",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 22,
+        "text": "Confidentiality as a concept may be interpreted differently in different locations, both within\nthe United States and abroad. Because there are different interpretations, always strive to\nmaintain and display the highest standard possible when considering confidentiality abroad.\nMaintaining confidentiality can aid in gaining trust from colleagues and the community in which\nyou are working.",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p022",
+          "section": "Chapter 3 - Guidelines for Professional Behavior Abroad",
+          "char_end": 1489,
+          "char_start": 1097,
+          "chunk_index": 3,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.03278688524590164,
+        "method": "hybrid_rrf",
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "student_handbook_for_global_engagement-p022-C-0005-28d7c4c550a6e78d",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 22,
+        "text": "• Realize that culture may impact people’s definition, interpretation, and expectations of\nconfidentiality, including people’s various social identities and privileges.\n• Refrain from posting and publishing confidential or identifying images, information, and\nquotations in public domains, including digital and/or social media (i.e. Facebook,\nMySpace, Twitter, blogs, etc.), without appropriate informed consent.",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p022",
+          "section": "Chapter 3 - Guidelines for Professional Behavior Abroad",
+          "char_end": 2326,
+          "char_start": 1913,
+          "chunk_index": 5,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.031754032258064516,
+        "method": "hybrid_rrf",
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "student_handbook_for_global_engagement-p022-C-0006-43d973171bdf10a2",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 22,
+        "text": "At times there may be a conflict between cultural norms and the concept of confidentiality. In\nyour attempt to maintain high standards of confidentiality, your actions may be viewed by\nlocals as going against cultural norms that require, for instance, more family involvement than\nyour confidentiality standards allow.",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p022",
+          "section": "Chapter 3 - Guidelines for Professional Behavior Abroad",
+          "char_end": 2646,
+          "char_start": 2328,
+          "chunk_index": 6,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.031754032258064516,
+        "method": "hybrid_rrf",
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "student_handbook_for_global_engagement-p022-C-0004-03e4c945db3aee9b",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 22,
+        "text": "Confidentiality is important for protecting and empowering participants,\ncommunity members, and colleagues, and can ensure more accurate research results by\nencouraging honesty among participants. As part of maintaining confidentiality, you should:\n• Obtain informed consent when necessary. If doubt or discrepancy exists about the need for\ninformed consent, it is prudent to err on the side of obtaining informed consent.",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p022",
+          "section": "Chapter 3 - Guidelines for Professional Behavior Abroad",
+          "char_end": 1912,
+          "char_start": 1490,
+          "chunk_index": 4,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.031746031746031744,
+        "method": "hybrid_rrf",
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "student_handbook_for_global_engagement-p023-C-0007-7a86c937f4c783a6",
+        "source_id": "student_handbook_for_global_engagement",
+        "source": "student_handbook_for_global_engagement",
+        "page": 23,
+        "text": "Student Handbook for Global Engagement 21",
+        "metadata": {
+          "page_id": "student_handbook_for_global_engagement-p023",
+          "section": "Chapter 3 - Guidelines for Professional Behavior Abroad",
+          "char_end": 3221,
+          "char_start": 3180,
+          "chunk_index": 7,
+          "section_source": "heading_in_source_page",
+          "chunking_strategy": "C",
+          "document_id": "student_handbook_global_engagement_v1"
+        },
+        "score": 0.030090497737556562,
+        "method": "hybrid_rrf",
+        "rank": 5,
+        "hit": false
+      }
+    ],
+    "context": "[student_handbook_for_global_engagement-p022-C-0003-e2535c8f0167e0c7 | student_handbook_for_global_engagement | page 22]\nConfidentiality as a concept may be interpreted differently in different locations, both within\nthe United States and abroad. Because there are different interpretations, always strive to\nmaintain and display the highest standard possible when considering confidentiality abroad.\nMaintaining confidentiality can aid in gaining trust from colleagues and the community in which\nyou are working.\n\n[student_handbook_for_global_engagement-p022-C-0005-28d7c4c550a6e78d | student_handbook_for_global_engagement | page 22]\n• Realize that culture may impact people’s definition, interpretation, and expectations of\nconfidentiality, including people’s various social identities and privileges.\n• Refrain from posting and publishing confidential or identifying images, information, and\nquotations in public domains, including digital and/or social media (i.e. Facebook,\nMySpace, Twitter, blogs, etc.), without appropriate informed consent.\n\n[student_handbook_for_global_engagement-p022-C-0006-43d973171bdf10a2 | student_handbook_for_global_engagement | page 22]\nAt times there may be a conflict between cultural norms and the concept of confidentiality. In\nyour attempt to maintain high standards of confidentiality, your actions may be viewed by\nlocals as going against cultural norms that require, for instance, more family involvement than\nyour confidentiality standards allow.\n\n[student_handbook_for_global_engagement-p022-C-0004-03e4c945db3aee9b | student_handbook_for_global_engagement | page 22]\nConfidentiality is important for protecting and empowering participants,\ncommunity members, and colleagues, and can ensure more accurate research results by\nencouraging honesty among participants. As part of maintaining confidentiality, you should:\n• Obtain informed consent when necessary. If doubt or discrepancy exists about the need for\ninformed consent, it is prudent to err on the side of obtaining informed consent.\n\n[student_handbook_for_global_engagement-p023-C-0007-7a86c937f4c783a6 | student_handbook_for_global_engagement | page 23]\nStudent Handbook for Global Engagement 21",
+    "context_ids": [
+      "student_handbook_for_global_engagement-p022-C-0003-e2535c8f0167e0c7",
+      "student_handbook_for_global_engagement-p022-C-0005-28d7c4c550a6e78d",
+      "student_handbook_for_global_engagement-p022-C-0006-43d973171bdf10a2",
+      "student_handbook_for_global_engagement-p022-C-0004-03e4c945db3aee9b",
+      "student_handbook_for_global_engagement-p023-C-0007-7a86c937f4c783a6"
+    ],
+    "hit1": false,
+    "evidence_hit3": true,
+    "context_evidence": true,
+    "context_chars": 2199,
+    "elapsed_ms": 92.82359999997425
+  }
+]

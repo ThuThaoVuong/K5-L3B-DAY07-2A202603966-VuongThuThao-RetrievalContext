@@ -1,0 +1,36 @@
+{
+  "experiment": "improvement_2",
+  "description": "TF-IDF top-20 + Cross-Encoder reranking, final top-5, context budget=2400",
+  "method": "tfidf_cross_encoder",
+  "split": "dev",
+  "n": 15,
+  "candidate_recall": {
+    "n": 12,
+    "N": 15,
+    "rate": 0.8
+  },
+  "hit1": {
+    "n": 8,
+    "N": 15,
+    "rate": 0.5333333333333333
+  },
+  "evidence_hit3": {
+    "n": 10,
+    "N": 15,
+    "rate": 0.6666666666666666
+  },
+  "context_evidence_rate": {
+    "n": 11,
+    "N": 15,
+    "rate": 0.7333333333333333
+  },
+  "median_ms": 612.4973000005411,
+  "median_retrieval_ms": 1.2098000006517395,
+  "median_rerank_ms": 611.1440000004222,
+  "avg_context_chars": 2107.733333333333,
+  "rerank_model": "cross-encoder/mmarco-mMiniLMv2-L12-H384-v1",
+  "candidate_k": 20,
+  "top_k": 5,
+  "context_budget_chars": 2400,
+  "service_cost_usd": 0
+}
